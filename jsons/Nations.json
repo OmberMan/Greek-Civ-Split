@@ -1,0 +1,34 @@
+[
+{
+		"name": "Macedonia",
+		"leaderName": "Alexander",
+		"adjective": ["Macedonian"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "You are in my way, you must be destroyed.",
+		"attacked": "As a matter of fact I too grow weary of peace.",
+		"defeated": "You have somehow become my undoing! What kind of beast are you?",
+		"introduction": "Hello stranger! I am Alexandros, son of kings and grandson of the gods!",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "What?",
+
+		"tradeRequest": "My friend, does this seem reasonable to you?",
+
+		"outerColor": [205, 155, 225],
+		"innerColor": [65, 141, 254],
+		"favoredReligion": "Christianity",
+		"uniqueName": "We need to take India right fucking now",
+		"uniques": ["[+1] Movement <in [Foreign Land] tiles>", "[+2 Culture] per [2] population [annexed cities]", "[+2 Culture] per [2] population [annexed cities] <during a Golden Age>"],
+		"cities": ["Pella","Alexandria", "Sparta","Corinth","Argos","Knossos","Mycenae","Pharsalos","Ephesus","Halicarnassus","Rhodes",
+			"Eretria","Pergamon","Miletos","Megara","Phocaea","Sicyon","Tiryns","Samos","Mytilene","Chios",
+			"Paros","Elis","Syracuse","Herakleia","Gortyn","Chalkis","Pylos","Naxos","Sicyon",
+			"Larissa","Apollonia","Messene","Orchomenos","Ambracia","Kos","Knidos","Amphipolis",
+			"Patras","Lamia","Nafplion","Apolyton"],
+        "spyNames": ["Jason", "Helena", "Alexa", "Cletus", "Kassandra", "Andres", "Desdemona", "Anthea", "Aeneas", "Leander"]
+    },
+]
