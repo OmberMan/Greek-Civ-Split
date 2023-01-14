@@ -2,14 +2,25 @@
 {
 		"name": "Acropolis",
 		"replaces": "Walls",
-		"uniqueTo": "Greece",
-    "culture": 3
-    "specialistSlots": {"Artist": 1},
+		"uniqueTo": "Athens",
+                "culture": 3,
+	        "faith": 1,
+                "specialistSlots": {"Artist": 1},
 		"cost": 85,
-		"cityStrength": 2.5,
-		"cityHealth": 25,
-		"hurryCostModifier": 25,
+		"cityStrength": 3,
+		"cityHealth": 30,
+		"hurryCostModifier": 100,
 		"requiredTech": "Masonry",
-		"uniques": ["Destroyed when the city is captured", "[+1 Gold] <after discovering [Flight]>"]
+		"uniques": ["Destroyed when the city is captured", "[+1 Gold] <after discovering [Flight]>", "Must be on [Hills]"]
+	},
+	{
+		"name": "Neosoikoi",
+		"cost": 120,
+		"cityStrength": 2,
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Production] from [Water resource] tiles [in this city]",
+			"Connects trade routes over water","Must be next to [Coast]", "[+1 Gold] from each Trade Route", "[+15]% Production when constructing [Water] units [in this city]"],
+		"requiredTech": "Optics"
 	},
 ]
