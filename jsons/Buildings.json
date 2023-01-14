@@ -1,0 +1,15 @@
+[
+{
+		"name": "Acropolis",
+		"replaces": "Walls",
+		"uniqueTo": "Greece",
+    "culture": 3
+    "specialistSlots": {"Artist": 1},
+		"cost": 85,
+		"cityStrength": 2.5,
+		"cityHealth": 25,
+		"hurryCostModifier": 25,
+		"requiredTech": "Masonry",
+		"uniques": ["Destroyed when the city is captured", "[+1 Gold] <after discovering [Flight]>"]
+	},
+]
