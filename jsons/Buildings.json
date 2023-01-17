@@ -6,15 +6,17 @@
                 "culture": 2,
 	        "faith": 1,
                 "specialistSlots": {"Artist": 1},
-		"cost": 85,
-		"cityStrength": 3,
-		"cityHealth": 30,
+		"cost": 75,
+		"cityStrength": 2.5,
+		"cityHealth": 25,
 		"hurryCostModifier": 80,
 		"requiredTech": "Masonry",
-		"uniques": ["Destroyed when the city is captured", "[+1 Gold] <after discovering [Flight]>", "Must be on [Hills]"]
+		"uniques": ["Destroyed when the city is captured", "[+1 Gold] <after discovering [Flight]>"]
 	},
 	{
 		"name": "Neosoikos",
+		"replaces": "Harbor",
+		"uniqueTo": "Athens",
 		"cost": 120,
 		"cityStrength": 2,
 		"maintenance": 1,
