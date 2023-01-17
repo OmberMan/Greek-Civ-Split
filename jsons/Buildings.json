@@ -14,7 +14,7 @@
 		"uniques": ["Destroyed when the city is captured", "[+1 Gold] <after discovering [Flight]>", "Must be on [Hills]"]
 	},
 	{
-		"name": "Neosoikoi",
+		"name": "Neosoikos",
 		"cost": 120,
 		"cityStrength": 2,
 		"maintenance": 2,
