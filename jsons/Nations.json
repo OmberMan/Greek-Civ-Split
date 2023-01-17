@@ -28,7 +28,7 @@
 		 "uniqueText": "+1 Movement for all land units in enemy territory. \n+1 [Culture] for every 2 population in annexed cities, doubled during Golden Ages.",
 	        "cities": ["Pella", "Pydna", "Aegae", "Alexandria", "Therma", "Pergamon", "Ambracia", "Alexandria II", "Alexandria III", "Methoni", "Larissa", 
 			"Alexandria IV", "Herakleia","Alexandria V","Alexandria VI", "Pherae",
-			"Alexandria VII","Orchomenos", "Alexandria VIII", "Alexandria IX", "Sicyon", "Alexandria X", "Ambracia", "Alexandria XI", "Alexandria XII", "Dodona", "Alexandria XIII", "Paros", "Alexandria XV", "Alexandria XVI", "Alexandria XVII", "Alexandria XVIII", "Alexandria XIX", "Hellespont Phrygia", "Alexandria XX", "Alexandria LVII", "Alexandria DCCCLXXXVIII"],
+			"Alexandria VII","Orchomenos", "Alexandria VIII", "Alexandria IX", "Sicyon", "Alexandria X", "Ambracia", "Alexandria XI", "Alexandria XII", "Dodona", "Alexandria XIII", "Paros", "Alexandria XV", "Alexandria XVI", "Alexandria XVII", "Alexandria XVIII", "Alexandria XIX", "Hellespont Phrygia", "Alexandria XX", "Alexandria LVII", "Alexandria DCCCLXXXVIII", "Skopje"],
         "spyNames": ["Jason", "Helena", "Alexa", "Cletus", "Kassandra", "Andres", "Alexander", "Anthea", "Alexandria XIV", "Leander"]
     },
 {
