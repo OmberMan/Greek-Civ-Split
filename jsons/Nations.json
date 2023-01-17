@@ -21,7 +21,7 @@
 		"tradeRequest": "My friend, does this seem reasonable to you?",
 
 		"outerColor": [120, 15, 200],
-		"innerColor": [230, 210, 50],
+		"innerColor": [235, 215, 60],
 		"favoredReligion": "Christianity",
 		"uniqueName": "We need to take India right fucking now",
 		"uniques": ["[+1] Movement <in [Enemy Land] tiles> <for [Land] units>", "[+1 Culture] per [2] population [annexed cities]", "[+2 Culture] per [2] population [annexed cities] <during a Golden Age>"],
@@ -57,10 +57,10 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "Attic Hegemony",
 		"uniques": ["Cannot build [Settler] units", "[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate", "Militaristic City-States grant units [2] times as fast when you are at war with a common nation", "[+2 Science, +2 Culture] per [2] social policies adopted", "[+1 Culture] from all [Science] buildings"],
-		"uniqueText": "City state influence recovers at twice the speed and degrades half as fast. \nGain +2 [Science] and +2 [Culture] per turn for every 2 social policies adopted. \n+1 [Culture] from every [Science] Building. \nCannot build settlers.",
+		"uniqueText": "City state influence recovers at twice the speed and degrades half as fast. \n+2 [Science] and +2 [Culture] for every other social policy adopted. \n+1 [Culture] from all [Science] buildings. \nCannot build settlers.",
 	        "cities": ["Athens", "Miletos","Phocaea", "Samos",
 			"Chalkis","Naxos", "Ephesus", "Chios", "Delos", "Thasos", "Abydos", "Olynthos", "Serfios", "Smyrna", "Imbros",
 			"Patras","Lamia","Nafplion","Apolyton", "Troizen"],
-        "spyNames": ["Jeson", "Hiline", "Aloix", "Cletos", "Kassandros", "Andros", "Desdemona", "Antheas", "Aeneas", "Loindiraos"]
+        "spyNames": ["Jeson", "Hiline", "Aloix", "Cletos", "Kassandros", "Andros", "Desdemona", "Antheas", "Aeneas", "Loindiraos", "Dada da du du da do do mo ne bam ba bah"]
     },
 ]
