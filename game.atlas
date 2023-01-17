@@ -32,21 +32,21 @@ NationIcons/Macedonia
   orig: 100, 100
   offset: 0, 0
   index: -1
-Tilesets/FantasyHex/Units/Epibatai
+TileSets/FantasyHex/Units/Epibatai
   rotate: false
   xy: 4, 4
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
-Tilesets/FantasyHex/Units/Rammed Trireme
+TileSets/FantasyHex/Units/Rammed Trireme
   rotate: false
   xy: 212, 104
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
-Tilesets/FantasyHex/Units/Sarissa Phalanx
+TileSets/FantasyHex/Units/Sarissa Phalanx
   rotate: false
   xy: 968, 212
   size: 32, 32
