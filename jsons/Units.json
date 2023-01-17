@@ -31,12 +31,12 @@
 		"attackSound": "horse"
 	},
   {
-		"name": "Ram Trireme",
+		"name": "Rammed Trireme",
 		"unitType": "Melee Water",
 		"uniqueTo": "Athens",
 		"replaces": "Trireme",
 		"movement": 4,
-		"strength": 12,
+		"strength": 11,
 		"cost": 45,
 		"requiredTech": "Sailing",
 		"uniques": ["Cannot enter ocean tiles", "Transfer Movement to [Epibatai]"],
@@ -57,7 +57,7 @@
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
                 "promotions": ["Marine Training"]
-		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+10]% Strength <when adjacent to a [Sword] unit>"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
 		"attackSound": "metalhit"
 	},
 ]
