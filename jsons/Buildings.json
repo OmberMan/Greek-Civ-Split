@@ -6,9 +6,9 @@
                 "culture": 1,
 	        "faith": 1,
                 "specialistSlots": {"Artist": 1},
-		"cost": 75,
-		"cityStrength": 2.5,
-		"cityHealth": 25,
+		"cost": 90,
+		"cityStrength": 5,
+		"cityHealth": 50,
 		"hurryCostModifier": 80,
 		"requiredTech": "Masonry",
 		"uniques": ["Destroyed when the city is captured", "[+1 Gold] <after discovering [Flight]>"]
