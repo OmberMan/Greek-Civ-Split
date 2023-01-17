@@ -19,11 +19,11 @@
 
 		"tradeRequest": "My friend, does this seem reasonable to you?",
 
-		"outerColor": [205, 155, 225],
-		"innerColor": [65, 141, 254],
+		"outerColor": [155, 35, 175],
+		"innerColor": [204, 41, 200],
 		"favoredReligion": "Christianity",
 		"uniqueName": "We need to take India right fucking now",
-		"uniques": ["[+1] Movement <in [Foreign Land] tiles>", "[+2 Culture] per [2] population [annexed cities]", "[+2 Culture] per [2] population [annexed cities] <during a Golden Age>"],
+		"uniques": ["[+1] Movement <in [Foreign Land] tiles>", "[+2 Culture] per [2] population [annexed cities]", "[+3 Culture] per [2] population [annexed cities] <during a Golden Age>"],
 		"cities": ["Pella","Alexandria", "Ephesus","Pergamon","Sicyon","Tiryns",
 			"Paros","Herakleia","Pylos","Sicyon",
 			"Larissa","Apollonia","Messene","Orchomenos","Ambracia"],
@@ -39,21 +39,21 @@
 		"startIntroPart1": "",
 		"startIntroPart2": "",
 
-		"declaringWar": "And thus always to Tyrants.",
+		"declaringWar": "And thus always to tyrants.",
 		"attacked": "Mmmm, very unwise.",
-		"defeated": "Beautiful Athens... you've plunged humanty into a dark age. Bad end.",
-		"introduction": "I greet you on behalf of Athens, father of the Ionians.",
+		"defeated": "Beautiful Athens... you've plunged humanty into a dark age. \nBad End.",
+		"introduction": "I greet you on behalf of Athens, bastion of enlightenment and father of the Ionians.",
 
 		"neutralHello": "Yes...?",
 		"hateHello": "Come to give up your throne, tyrant?",
 
-		"tradeRequest": "Trust me, this is what will benefit us all the most.",
+		"tradeRequest": "Trust me, this is what will most benefit us all.",
 
 		"outerColor": [15, 40, 210],
 		"innerColor": [225, 225, 255],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Attic Hegemony",
-		"uniques": ["Cannot build [Settler] units", "[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate", "Militaristic City-States grant units [2] times as fast when you are at war with a common nation", "[+5 Science] per [2] social policies adopted", "[+1 Culture] from all [Science] buildings", "[+1 Science] from every [Artist]"],
+		"uniques": ["Cannot build [Settler] units", "[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate", "Militaristic City-States grant units [2] times as fast when you are at war with a common nation", "[+2 Science, +2 Culture] per [2] social policies adopted", "[+1 Culture] from all [Science] buildings", "[+1 Science] from every [Artist]"],
 		"cities": ["Athens", "Miletos","Phocaea","Samos",
 			"Chalkis","Naxos", "Ephesus",
 			"Patras","Lamia","Nafplion","Apolyton"],
