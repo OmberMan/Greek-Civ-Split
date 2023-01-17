@@ -5,6 +5,7 @@
 		"adjective": ["Macedonian"],
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Domination",
+	        "style": ["Mediterranean"],
 
 		"startIntroPart1": "",
 		"startIntroPart2": "",
@@ -19,44 +20,45 @@
 
 		"tradeRequest": "My friend, does this seem reasonable to you?",
 
-		"outerColor": [155, 35, 175],
+		"outerColor": [145, 25, 165],
 		"innerColor": [204, 41, 200],
 		"favoredReligion": "Christianity",
 		"uniqueName": "We need to take India right fucking now",
 		"uniques": ["[+1] Movement <in [Foreign Land] tiles>", "[+2 Culture] per [2] population [annexed cities]", "[+3 Culture] per [2] population [annexed cities] <during a Golden Age>"],
-		"cities": ["Pella","Alexandria", "Ephesus","Pergamon","Sicyon","Tiryns",
-			"Paros","Herakleia","Pylos","Sicyon",
-			"Larissa","Apollonia","Messene","Orchomenos","Ambracia"],
-        "spyNames": ["Jason", "Helena", "Alexa", "Cletus", "Kassandra", "Andres", "Desdemona", "Anthea", "Aeneas", "Leander"]
+		"cities": ["Pella", "Pydna", "Aegae", "Alexandria", "Therma", "Pergamon", "Alexandria II", "Alexandria III", "Methoni", "Larissa", 
+			"Alexandria IV", "Herakleia","Alexandria V","Alexandria VI",
+			"Alexandria VII","Orchomenos", "Alexandria VIII", "Alexandria IX", "Sicyon", "Alexandria X", "Ambracia", "Alexandria XI", "Alexandria XII", "Alexandria XIII", "Paros", "Alexandria XV", "Alexandria XVI", "Alexandria XVII", "Alexandria XVIII", "Alexandria XIX", "Alexandria XX", "Alexandria LVII", "Alexandria DCCCLXXXVIII"],
+        "spyNames": ["Jason", "Helena", "Alexa", "Cletus", "Kassandra", "Andres", "Alexander", "Anthea", "Alexandria XIV", "Leander"]
     },
 {
 		"name": "Athens",
-		"leaderName": "Periclies",
+		"leaderName": "Pericles",
 		"adjective": ["Attic"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Diplomatic",
+		"style": ["Mediterranean"],
 
 		"startIntroPart1": "",
 		"startIntroPart2": "",
 
 		"declaringWar": "And thus always to tyrants.",
-		"attacked": "Mmmm, very unwise.",
-		"defeated": "Beautiful Athens... you've plunged humanty into a dark age. \nBad End.",
-		"introduction": "I greet you on behalf of Athens, bastion of enlightenment and father of the Ionians.",
+		"attacked": "Mmmmm, very unwise.",
+		"defeated": "Beautiful Athens... you've plunged humanity into a dark age... \nBad End.",
+		"introduction": "I greet you on behalf of Athens as her elected representive; behold the bastion of enlightenment and mother of the Ionians.",
 
-		"neutralHello": "Yes...?",
+		"neutralHello": "Yes..?",
 		"hateHello": "Come to give up your throne, tyrant?",
 
-		"tradeRequest": "Trust me, this is what will most benefit us all.",
+		"tradeRequest": "Trust me, this agreement will benefit us all the most.",
 
 		"outerColor": [15, 40, 210],
 		"innerColor": [225, 225, 255],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Attic Hegemony",
-		"uniques": ["Cannot build [Settler] units", "[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate", "Militaristic City-States grant units [2] times as fast when you are at war with a common nation", "[+2 Science, +2 Culture] per [2] social policies adopted", "[+1 Culture] from all [Science] buildings", "[+1 Science] from every [Artist]"],
-		"cities": ["Athens", "Miletos","Phocaea","Samos",
-			"Chalkis","Naxos", "Ephesus",
-			"Patras","Lamia","Nafplion","Apolyton"],
-        "spyNames": ["Jeson", "Hiline", "Alexa", "Cletus", "Kassandra", "Andres", "Desdemona", "Anthea", "Aeneas", "Leander"]
+		"uniques": ["Cannot build [Settler] units", "[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate", "Militaristic City-States grant units [2] times as fast when you are at war with a common nation", "[+4 Science, +4 Culture] per [3] social policies adopted", "[+1 Culture] from all [Science] buildings"],
+		"cities": ["Athens", "Miletos","Phocaea", "Samos",
+			"Chalkis","Naxos", "Ephesus", "Chios", "Delos", "Thasos", "Abydos", "Olynthos", "Serfios", "Smyrna", "Imbros",
+			"Patras","Lamia","Nafplion","Apolyton", "Troizen"],
+        "spyNames": ["Jeson", "Hiline", "Aloix", "Cletos", "Kassandros", "Andros", "Desdemona", "Antheas", "Aeneas", "Loindiraos"]
     },
 ]
