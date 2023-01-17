@@ -1,0 +1,83 @@
+
+game.png
+size: 1024, 256
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Acropolis
+  rotate: false
+  xy: 4, 44
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Neosoikos
+  rotate: false
+  xy: 644, 144
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Athens
+  rotate: false
+  xy: 212, 144
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Macedonia
+  rotate: false
+  xy: 428, 144
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+Tilesets/FantasyHex/Units/Epibatai
+  rotate: false
+  xy: 4, 4
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Tilesets/FantasyHex/Units/Rammed Trireme
+  rotate: false
+  xy: 212, 104
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Tilesets/FantasyHex/Units/Sarissa Phalanx
+  rotate: false
+  xy: 968, 212
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+UnitIcons/Epibatai
+  rotate: false
+  xy: 320, 144
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Rammed Trireme
+  rotate: false
+  xy: 752, 144
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Sarissa Phalanx
+  rotate: false
+  xy: 860, 144
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Marine Training
+  rotate: false
+  xy: 536, 144
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
