@@ -8,9 +8,24 @@
 		"strength": 13,
 		"cost": 56,
 		"requiredTech": "Bronze Working",
-		"obsoleteTech": "Civil Service",
-		"upgradesTo": "Pikeman",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+10]% Strength <when adjacent to a [Sword] unit>"],
+		"obsoleteTech": "Steel",
+		"upgradesTo": "Longswordsman",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+10]% Strength <when adjacent to a [Hoplite] unit>"],
+		"attackSound": "metalhit"
+	},
+{
+		"name": "Sarissa Phalanx",
+		"unitType": "Sword",
+		"replaces": "Pikeman",
+		"uniqueTo": "Macedonia",
+		"movement": 2,
+		"strength": 15,
+		"cost": 90,
+		"requiredTech": "Philosophy",
+		"obsoleteTech": "Metallurgy",
+		"upgradesTo": "Lancer",
+                "promotions": ["Great Generals I"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+10]% Strength <when adjacent to a [Sarissa Phalanx] unit>", "[+25]% Strength <vs [Melee] units> <when defending>"],
 		"attackSound": "metalhit"
 	},
   	{
