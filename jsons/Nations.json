@@ -24,7 +24,7 @@
 		"innerColor": [235, 215, 60],
 		"favoredReligion": "Christianity",
 		"uniqueName": "We need to take India right fucking now",
-		"uniques": ["[+1] Movement <in [Enemy Land] tiles> <for [Land] units>", "[+1 Culture] per [2] population [annexed cities]", "[+2 Culture] per [2] population [annexed cities] <during a Golden Age>"],
+		"uniques": ["[+1] Movement <in [Enemy Land] tiles> <for [Land] units>", "[+1 Culture] per [2] population [in annexed cities]", "[+2 Culture] per [2] population [in annexed cities] <during a Golden Age>"],
 		 "uniqueText": "+1 Movement for all land units in enemy territory. \n+1 [Culture] for every 2 population in annexed cities, doubled during Golden Ages.",
 	        "cities": ["Pella", "Pydna", "Aegae", "Alexandria", "Therma", "Pergamon", "Ambracia", "Alexandria II", "Alexandria III", "Methoni", "Larissa", 
 			"Alexandria IV", "Herakleia","Alexandria V","Alexandria VI", "Pherae",
