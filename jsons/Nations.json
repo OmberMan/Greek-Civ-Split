@@ -5,7 +5,7 @@
 		"adjective": ["Macedonian"],
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Domination",
-	        "style": ["Mediterranean"],
+	        "style": "Mediterranean",
 
 		"startIntroPart1": "",
 		"startIntroPart2": "",
@@ -25,9 +25,9 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "We need to take India right fucking now",
 		"uniques": ["[+1] Movement <in [Foreign Land] tiles>", "[+2 Culture] per [2] population [annexed cities]", "[+3 Culture] per [2] population [annexed cities] <during a Golden Age>"],
-		"cities": ["Pella", "Pydna", "Aegae", "Alexandria", "Therma", "Pergamon", "Alexandria II", "Alexandria III", "Methoni", "Larissa", 
-			"Alexandria IV", "Herakleia","Alexandria V","Alexandria VI",
-			"Alexandria VII","Orchomenos", "Alexandria VIII", "Alexandria IX", "Sicyon", "Alexandria X", "Ambracia", "Alexandria XI", "Alexandria XII", "Alexandria XIII", "Paros", "Alexandria XV", "Alexandria XVI", "Alexandria XVII", "Alexandria XVIII", "Alexandria XIX", "Alexandria XX", "Alexandria LVII", "Alexandria DCCCLXXXVIII"],
+		"cities": ["Pella", "Pydna", "Aegae", "Alexandria", "Therma", "Pergamon", "Ambracia", "Alexandria II", "Alexandria III", "Methoni", "Larissa", 
+			"Alexandria IV", "Herakleia","Alexandria V","Alexandria VI", "Pherae",
+			"Alexandria VII","Orchomenos", "Alexandria VIII", "Alexandria IX", "Sicyon", "Alexandria X", "Ambracia", "Alexandria XI", "Alexandria XII", "Dodona", "Alexandria XIII", "Paros", "Alexandria XV", "Alexandria XVI", "Alexandria XVII", "Alexandria XVIII", "Alexandria XIX", "Hellespont Phrygia", "Alexandria XX", "Alexandria LVII", "Alexandria DCCCLXXXVIII"],
         "spyNames": ["Jason", "Helena", "Alexa", "Cletus", "Kassandra", "Andres", "Alexander", "Anthea", "Alexandria XIV", "Leander"]
     },
 {
@@ -36,7 +36,7 @@
 		"adjective": ["Attic"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Diplomatic",
-		"style": ["Mediterranean"],
+		"style": "Mediterranean",
 
 		"startIntroPart1": "",
 		"startIntroPart2": "",
