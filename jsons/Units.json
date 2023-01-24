@@ -71,8 +71,23 @@
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
-                "promotions": ["Marine Training"]
+                "promotions": ["Marine Training"],
 		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
 		"attackSound": "metalhit"
+	},
+	{
+		"name": "Peltast",
+		"unitType": "Archery",
+		"movement": 2,
+		"strength": 6,
+		"rangedStrength": 10,
+                "range": 1,
+		"cost": 40,
+		"requiredTech": "Archery",
+		"obsoleteTech": "Machinery",
+		"upgradesTo": "Crossbowman",
+                "promotions": ["Drill I", "Ignore terrain cost"],
+                "uniques": ["May withdraw before melee ([50]%)"],
+		"attackSound": "arrow"
 	},
 ]
