@@ -1,6 +1,10 @@
 [
 {
 		"name": "Marine Training",
-		"uniques": ["May attack when embarked", "[1] Movement point cost to embark", "[1] Movement point cost to disembark", "Normal vision when embarked", "Eliminates combat penalty for attacking across a coast", "[+50]% Strength when stacked with [Water]"]
+		"uniques": ["May attack when embarked", "[1] Movement point cost to embark", "[1] Movement point cost to disembark", "Normal vision when embarked", "Eliminates combat penalty for attacking across a coast"]
 	},
+        { 
+                "name": "Legacy of the 300",
+		"uniques": ["[+20]% Strength <when attacking> <when adjacent to a [Elite Hoplite] unit>"]
+        },
  ]
