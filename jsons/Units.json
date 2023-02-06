@@ -54,7 +54,7 @@
 		"strength": 11,
 		"cost": 45,
 		"requiredTech": "Sailing",
-		"uniques": ["Cannot enter ocean tiles", "Transfer Movement to [Epibatai]"],
+		"uniques": ["Cannot enter ocean tiles", "Transfer Movement to [Epibatai]", "[+50]% Strength when stacked with [Epibatai]"],
                 "promotions": ["Boarding Party I"],
 		"upgradesTo": "Caravel",
 		"obsoleteTech": "Astronomy",
