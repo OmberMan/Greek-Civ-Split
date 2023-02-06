@@ -20,7 +20,7 @@
 		"uniqueTo": "Macedonia",
 		"movement": 2,
 		"strength": 15,
-		"cost": 90,
+		"cost": 80,
 		"requiredTech": "Philosophy",
 		"obsoleteTech": "Metallurgy",
 		"upgradesTo": "Lancer",
@@ -92,5 +92,20 @@
                 "promotions": ["Drill I", "Ignore terrain cost"],
                 "uniques": ["May withdraw before melee ([50]%)"],
 		"attackSound": "arrow"
+	},
+        {
+		"name": "Elite Hoplite",
+		"unitType": "Sword",
+		"replaces": "Spearman",
+		"uniqueTo": "Sparta",
+		"movement": 2,
+		"strength": 13,
+		"cost": 70,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Steel",
+		"upgradesTo": "Longswordsman",
+                "hurryCostModifier": 30,
+		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+20]% Strength <vs [Ranged] units> <when defending>"],
+		"attackSound": "metalhit"
 	},
 ]
