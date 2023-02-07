@@ -87,12 +87,12 @@
 		"outerColor": [195, 65, 40],
 		"innerColor": [210, 205, 25],
 		"favoredReligion": "Christianity",
-		"uniqueName": "Attic Hegemony",
-		"uniques": ["Cannot build [Settler] units", "[+2 Production, +1 Culture] from all [Military] buildings", "City-State Influence recovers at twice the normal rate", "Militaristic City-States grant units [2] times as fast when you are at war with a common nation", "[+2 Science, +2 Culture] per [2] social policies adopted", "[+1 Culture] from all [Science] buildings"],
+		"uniqueName": "Wrangle the Helots",
+		"uniques": ["Cannot build [Settler] units", "[+2 Production, +1 Culture] from all [Military] buildings", "City-State Influence recovers at twice the normal rate", "Militaristic City-States grant units [2] times as fast when you are at war with a common nation", "[+2 Science, +2 Culture] per [2] social policies adopted <upon conquering a city>", "[+1 Culture] from all [Science] buildings"],
 		"uniqueText": "City state influence recovers at twice the speed and degrades half as fast. \n+2 [Science] and +2 [Culture] for every other social policy adopted. \n+1 [Culture] from all [Science] buildings. \nCannot build settlers.",
-	        "cities": ["Athens", "Miletos","Phocaea", "Samos",
+	        "cities": ["Sparta", "Messene","Tegea", "Olympia",
 			"Chalkis","Naxos", "Ephesus", "Chios", "Delos", "Thasos", "Abydos", "Olynthos", "Serfios", "Smyrna", "Imbros",
 			"Patras","Lamia","Nafplion","Apolyton", "Troizen"],
-        "spyNames": ["Jeson", "Hiline", "Aloix", "Cletos", "Kassandros", "Andros", "Desdemona", "Antheas", "Aeneas", "Loindiraos", "Dada da du du da do do mo ne bam ba bah"]
+        "spyNames": ["Jeson", "Helen", "Aloix", "Cletos", "Kassandros", "Andros", "Desdemona", "Antheas", "Aeneas", "Loindiraos", "Dada da du du da do do mo ne bam ba bah"]
     },
 ]
