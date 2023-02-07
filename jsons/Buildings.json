@@ -25,4 +25,16 @@
 			"Connects trade routes over water","Must be next to [Coast]", "[+1 Gold] from each Trade Route", "[+15]% Production when constructing [Water] units [in this city]"],
 		"requiredTech": "Optics"
 	},
+{
+		"name": "Syssitia Mess Hall",
+		"replaces": "Barracks",
+		"uniqueTo": "Sparta",
+                "culture": 1,
+	        "food": 1,
+		"cost": 90,
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["New [Military] units start with [15] Experience [in this city]", "New [Military] units start with [5] Experience [in this city] <in cities with at least [5] [Population]>", "Destroyed when the city is captured"],
+		"requiredTech": "Bronze Working"
+	},
 ]
