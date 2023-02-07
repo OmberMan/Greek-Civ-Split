@@ -105,6 +105,7 @@
 		"obsoleteTech": "Steel",
 		"upgradesTo": "Longswordsman",
                 "hurryCostModifier": 30,
+                "promotions": ["Legacy of the 300"],
 		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+20]% Strength <vs [Ranged] units> <when defending>"],
 		"attackSound": "metalhit"
 	},
