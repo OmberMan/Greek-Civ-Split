@@ -5,6 +5,6 @@
 	},
         { 
                 "name": "Legacy of the 300",
-		"uniques": ["[+20]% Strength <when attacking> <when adjacent to a [Elite Hoplite] unit>"]
+		"uniques": ["[+20]% Strength <when attacking> <when adjacent to a [Elite Hoplite] unit>", "[+20]% Strength <when defending>", "[-20]% Strength <when defending> <when adjacent to a [Friendly] unit>", "Damage is ignored when determining unit Strength"]
         },
  ]
