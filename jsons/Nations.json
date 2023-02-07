@@ -88,7 +88,7 @@
 		"innerColor": [210, 205, 25],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Wrangle the Helots",
-		"uniques": ["Cannot build [Settler] units", "[+2 Production, +1 Culture] from all [Military] buildings", "[+1] population [in capital] <upon conquering a city>", "Free [Melee] appears <upon declaring war with a major Civilization>", "[-20]% Unhappiness from [Population] [in all cities with a garrison]", "[+50]% Unhappiness from [Specialists] [in capital]", "All newly-trained [Gunpowder] units [the capital] receive the [Agoge] promotion"", "All newly-trained [Sword] units [the capital] receive the [Agoge] promotion"],
+		"uniques": ["Cannot build [Settler] units", "[+2 Production, +1 Culture] from all [Military] buildings", "[+1] population [in capital] <upon conquering a city>", "Free [Worker] appears <upon conquering a city>", "Free [Melee] appears <upon declaring war with a major Civilization>", "[-20]% Unhappiness from [Population] [in all cities with a garrison]", "[+50]% Unhappiness from [Specialists] [in capital]", "All newly-trained [Gunpowder] units [the capital] receive the [Agoge] promotion", "All newly-trained [Sword] units [the capital] receive the [Agoge] promotion"],
 		"uniqueText": "+1 [Culture] and +2 [Production] from military buildings. \nGain 1 population in the capital upon conquering a city, and a free melee unit when declaring war. \nAll Infantry units receive the Agoge Promotion \nCannot build settlers.",
 	        "cities": ["Sparta", "Messene","Tegea", "Olympia"]
     },
