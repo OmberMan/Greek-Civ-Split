@@ -7,4 +7,8 @@
                 "name": "Legacy of the 300",
 		"uniques": ["[+20]% Strength <when attacking> <when adjacent to a [Elite Hoplite] unit>", "[+20]% Strength <when defending>", "[-20]% Strength <when defending> <when adjacent to a [Friendly] unit>", "Damage is ignored when determining unit Strength"]
         },
+        { 
+                "name": "Agoge",
+		"uniques": ["[+20]% Strength", "[+33]% XP gained from combat", "[-5] HP when healing"]
+        },
  ]
