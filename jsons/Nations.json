@@ -77,22 +77,19 @@
 		"declaringWar": "You're time is up, weakling! Glory to Sparta!",
 		"attacked": "Our spears thirst for the blood of cravens, barbarian. You will not be walking away from this one.",
 		"defeated": "No... you will get no surrender from us. We'll fight til the last man.",
-		"introduction": "I greet you on behalf of Athens as her elected representive; behold the bastion of enlightenment and mother of the Ionians.",
+		"introduction": "You know where this is.",
 
-		"neutralHello": "Yes..?",
-		"hateHello": "Come to give up your throne, tyrant?",
+		"neutralHello": "Hmmm?",
+		"hateHello": "I eagerly await the day you and your miserable people waste away toiling in our fields.",
 
-		"tradeRequest": "Trust me, this agreement will benefit us all the most.",
+		"tradeRequest": "Good deal yes? We shall await your reply at the edge of a comically large pit.",
 
 		"outerColor": [195, 65, 40],
 		"innerColor": [210, 205, 25],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Wrangle the Helots",
-		"uniques": ["Cannot build [Settler] units", "[+2 Production, +1 Culture] from all [Military] buildings", "City-State Influence recovers at twice the normal rate", "Militaristic City-States grant units [2] times as fast when you are at war with a common nation", "[+2 Science, +2 Culture] per [2] social policies adopted <upon conquering a city>", "[+1 Culture] from all [Science] buildings"],
-		"uniqueText": "City state influence recovers at twice the speed and degrades half as fast. \n+2 [Science] and +2 [Culture] for every other social policy adopted. \n+1 [Culture] from all [Science] buildings. \nCannot build settlers.",
-	        "cities": ["Sparta", "Messene","Tegea", "Olympia",
-			"Chalkis","Naxos", "Ephesus", "Chios", "Delos", "Thasos", "Abydos", "Olynthos", "Serfios", "Smyrna", "Imbros",
-			"Patras","Lamia","Nafplion","Apolyton", "Troizen"],
-        "spyNames": ["Jeson", "Helen", "Aloix", "Cletos", "Kassandros", "Andros", "Desdemona", "Antheas", "Aeneas", "Loindiraos", "Dada da du du da do do mo ne bam ba bah"]
+		"uniques": ["Cannot build [Settler] units", "[+2 Production, +1 Culture] from all [Military] buildings", "[+1] population [in capital] <upon conquering a city>", "Free [Melee] appears <upon declaring war with a major Civilization>", "[-20]% Unhappiness from [Population] [in all cities with a garrison]", "[+50]% Unhappiness from [Specialists] [in capital]", "All newly-trained [Gunpowder] units [the capital] receive the [Agoge] promotion"", "All newly-trained [Sword] units [the capital] receive the [Agoge] promotion"],
+		"uniqueText": "+1 [Culture] and +2 [Production] from military buildings. \nGain 1 population in the capital upon conquering a city, and a free melee unit when declaring war. \nAll Infantry units receive the Agoge Promotion \nCannot build settlers.",
+	        "cities": ["Sparta", "Messene","Tegea", "Olympia"]
     },
 ]
