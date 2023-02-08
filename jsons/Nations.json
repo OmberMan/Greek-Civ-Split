@@ -67,22 +67,22 @@
 		"name": "Sparta",
 		"leaderName": "Leonidas",
 		"adjective": ["Doric"],
-		"startBias": ["Avoid Desert", "Avoid Tundra"],
+		"startBias": ["Avoid Tundra"],
 		"preferredVictoryType": "Domination",
 		"style": "Mediterranean",
 
 		"startIntroPart1": "",
 		"startIntroPart2": "",
 
-		"declaringWar": "You're time is up, weakling! Glory to Sparta!",
-		"attacked": "Our spears thirst for the blood of cravens, barbarian. You will not be walking away from this one.",
-		"defeated": "No... you will get no surrender from us. We'll fight til the last man.",
+		"declaringWar": "Sparta's fields require helots, and her markets slaves. The weak should fear the strong; prepare to die.",
+		"attacked": "Sparta shall never submit to cravens, barbaroi. You will not be walking away from this one.",
+		"defeated": "No... our society was infallible, indestructable... at least we will die as Spartans.",
 		"introduction": "You know where this is.",
 
 		"neutralHello": "Hmmm?",
-		"hateHello": "I eagerly await the day you and your miserable people waste away toiling in our fields.",
+		"hateHello": "I eagerly await the day you and your puny people waste away toiling in Laconia's fields.",
 
-		"tradeRequest": "Good deal yes? We shall await your reply at the edge of a comically large pit.",
+		"tradeRequest": "This is our offer? We shall await your reply at the edge of a comically large pit.",
 
 		"outerColor": [185, 55, 30],
 		"innerColor": [205, 200, 25],
