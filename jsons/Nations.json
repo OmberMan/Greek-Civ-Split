@@ -75,18 +75,18 @@
 		"startIntroPart2": "",
 
 		"declaringWar": "Laconia's fields require fresh helots, and her markets slaves. The weak should fear the strong; we shall enforce that natural order now.",
-		"attacked": "Sparta shall never submit to barbaroi. We have the favor of Aries, craven. You will not be walking away from this one.",
+		"attacked": "Sparta shall never submit to foreign Cravens! Aries smiles upon us, barbaroi. You will not be walking away from this one.",
 		"defeated": "No... our society was infallible, indestructable... at least we will die with it as Spartans.",
 		"introduction": "You know where this is.",
 
 		"neutralHello": "What, barbaroi? Speak.",
 		"hateHello": "I would have settled our differences on the fields of battle, were we not currently preoccupied declaring war on our peasant class. \nYou call it madness, we call it Sparda.",
 
-		"tradeRequest": "This is our offer. We shall await your reply at the edge of a comically large pit.",
+		"tradeRequest": "This is our offer. \nWe shall await your reply at the edge of a comically sized pit.",
 
 		"outerColor": [185, 55, 30],
 		"innerColor": [205, 200, 25],
-		"favoredReligion": "Shintoism",
+		"favoredReligion": "Shinto",
 		"uniqueName": "Kick the Helot",
 		"uniques": ["Cannot build [Settler] units", "[+1 Production, +1 Culture] from all [Military] buildings", "[+1] population [in capital] <upon conquering a city>", "Free [Worker] appears <upon conquering a city>", "Free [Melee] appears <upon declaring war with a major Civilization>", "[-20]% Unhappiness from [Population] [in all cities with a garrison]", "[+50]% Unhappiness from [Specialists] [in capital]", "All newly-trained [Gunpowder] units [in capital] receive the [Agoge] promotion", "All newly-trained [Sword] units [in capital] receive the [Agoge] promotion", "[+50]% Production when constructing [Military] units [in capital]"],
 		"uniqueText": "+50% [Production] of military units in the capital. \nGain 1 population in the capital and a worker upon conquering a city, and a free melee unit when declaring war. \nAll Infantry units receive the Agoge Promotion \nCannot build settlers.",
