@@ -88,8 +88,8 @@
 		"innerColor": [205, 200, 25],
 		"favoredReligion": "Shintoism",
 		"uniqueName": "Kick the Helot",
-		"uniques": ["Cannot build [Settler] units", "[+1 Production, +1 Culture] from all [New [Military] units start with [15] Experience [in this city]] buildings", "[+1] population [in capital] <upon conquering a city>", "Free [Worker] appears <upon conquering a city>", "Free [Melee] appears <upon declaring war with a major Civilization>", "[-20]% Unhappiness from [Population] [in all cities with a garrison]", "[+50]% Unhappiness from [Specialists] [in capital]", "All newly-trained [Gunpowder] units [in capital] receive the [Agoge] promotion", "All newly-trained [Sword] units [in capital] receive the [Agoge] promotion", "[+25]% Production when constructing [Military] units [in capital]"],
-		"uniqueText": "+1 [Culture] and +1 [Production] from military buildings. \nGain 1 population in the capital and a worker upon conquering a city, and a free melee unit when declaring war. \nAll Infantry units receive the Agoge Promotion \nCannot build settlers.",
+		"uniques": ["Cannot build [Settler] units", "[+1 Production, +1 Culture] from all [Military] buildings", "[+1] population [in capital] <upon conquering a city>", "Free [Worker] appears <upon conquering a city>", "Free [Melee] appears <upon declaring war with a major Civilization>", "[-20]% Unhappiness from [Population] [in all cities with a garrison]", "[+50]% Unhappiness from [Specialists] [in capital]", "All newly-trained [Gunpowder] units [in capital] receive the [Agoge] promotion", "All newly-trained [Sword] units [in capital] receive the [Agoge] promotion", "[+50]% Production when constructing [Military] units [in capital]"],
+		"uniqueText": "+50% [Production] of military units in the capital. \nGain 1 population in the capital and a worker upon conquering a city, and a free melee unit when declaring war. \nAll Infantry units receive the Agoge Promotion \nCannot build settlers.",
 	        "cities": ["Sparta", "Messene","Tegea", "Olympia"],
                 "spyNames": ["Schneider", "The Rolling Corpse of Ayn Rand"]
     },
