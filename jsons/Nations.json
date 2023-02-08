@@ -67,29 +67,30 @@
 		"name": "Sparta",
 		"leaderName": "Leonidas",
 		"adjective": ["Doric"],
-		"startBias": ["Avoid Tundra"],
+		"startBias": ["Plains"],
 		"preferredVictoryType": "Domination",
 		"style": "Mediterranean",
 
 		"startIntroPart1": "",
 		"startIntroPart2": "",
 
-		"declaringWar": "Sparta's fields require helots, and her markets slaves. The weak should fear the strong; prepare to die.",
-		"attacked": "Sparta shall never submit to cravens, barbaroi. You will not be walking away from this one.",
-		"defeated": "No... our society was infallible, indestructable... at least we will die as Spartans.",
+		"declaringWar": "Laconia's fields require fresh helots, and her markets slaves. The weak should fear the strong; we shall enforce that natural order now.",
+		"attacked": "Sparta shall never submit to barbaroi. We have the favor of Aries, craven. You will not be walking away from this one.",
+		"defeated": "No... our society was infallible, indestructable... at least we will die with it as Spartans.",
 		"introduction": "You know where this is.",
 
-		"neutralHello": "Hmmm?",
-		"hateHello": "I eagerly await the day you and your puny people waste away toiling in Laconia's fields.",
+		"neutralHello": "What, barbaroi? Speak.",
+		"hateHello": "I would have settled our differences on the fields of battle, were we not currently preoccupied declaring war on our peasant class. \nYou call it madness, we call it Sparda.",
 
-		"tradeRequest": "This is our offer? We shall await your reply at the edge of a comically large pit.",
+		"tradeRequest": "This is our offer. We shall await your reply at the edge of a comically large pit.",
 
 		"outerColor": [185, 55, 30],
 		"innerColor": [205, 200, 25],
-		"favoredReligion": "Christianity",
-		"uniqueName": "Wrangle the Helots",
-		"uniques": ["Cannot build [Settler] units", "[+1 Production, +1 Culture] from all [Military] buildings", "[+1] population [in capital] <upon conquering a city>", "Free [Worker] appears <upon conquering a city>", "Free [Melee] appears <upon declaring war with a major Civilization>", "[-20]% Unhappiness from [Population] [in all cities with a garrison]", "[+50]% Unhappiness from [Specialists] [in capital]", "All newly-trained [Gunpowder] units [in capital] receive the [Agoge] promotion", "All newly-trained [Sword] units [in capital] receive the [Agoge] promotion"],
+		"favoredReligion": "Shintoism",
+		"uniqueName": "Kick the Helot",
+		"uniques": ["Cannot build [Settler] units", "[+1 Production, +1 Culture] from all ["New [Military] units start with [15] Experience [in this city]"] buildings", "[+1] population [in capital] <upon conquering a city>", "Free [Worker] appears <upon conquering a city>", "Free [Melee] appears <upon declaring war with a major Civilization>", "[-20]% Unhappiness from [Population] [in all cities with a garrison]", "[+50]% Unhappiness from [Specialists] [in capital]", "All newly-trained [Gunpowder] units [in capital] receive the [Agoge] promotion", "All newly-trained [Sword] units [in capital] receive the [Agoge] promotion", "[+25]% Production when constructing [Military] units [in capital]"],
 		"uniqueText": "+1 [Culture] and +1 [Production] from military buildings. \nGain 1 population in the capital and a worker upon conquering a city, and a free melee unit when declaring war. \nAll Infantry units receive the Agoge Promotion \nCannot build settlers.",
-	        "cities": ["Sparta", "Messene","Tegea", "Olympia"]
+	        "cities": ["Sparta", "Messene","Tegea", "Olympia"],
+                "spyNames": ["Schneider", "The Rolling Corpse of Ayn Rand"]
     },
 ]
