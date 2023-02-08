@@ -35,6 +35,7 @@
 		"hurryCostModifier": 50,
 		"maintenance": 1,
 		"uniques": ["New [Military] units start with [15] Experience [in this city]", "New [Military] units start with [5] Experience [in this city] <in cities with at least [5] [Population]>", "New [Military] units start with [5] Experience [in this city] <in cities with at least [10] [Population]>", "New [Military] units start with [5] Experience [in this city] <in cities with at least [15] [Population]>", "New [Military] units start with [5] Experience [in this city] <in cities with at least [20] [Population]>", "New [Military] units start with [5] Experience [in this city] <in cities with at least [25] [Population]>", "New [Military] units start with [5] Experience [in this city] <in cities with at least [30] [Population]>", "Destroyed when the city is captured"],
+	        "uniqueText": "New military units start with 15 experience, plus 5 more experience for every 5 population.",
 		"requiredTech": "Bronze Working"
 	},
 ]
