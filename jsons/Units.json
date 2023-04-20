@@ -77,21 +77,21 @@
 	},
 	{
 		"name": "Peltast",
-		"replaces": "Archer",
+		"replaces": "Composite Bowman",
 		"uniqueTo": "Macedonia",
 		"unitType": "Archery",
 		"movement": 2,
-		"strength": 6,
-		"rangedStrength": 10,
+		"strength": 8,
+		"rangedStrength": 12,
                 "range": 1,
-		"cost": 40,
-		"hurryCostModifier": -20,
-		"requiredTech": "Archery",
+		"cost": 56,
+		"hurryCostModifier": -25,
+		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Machinery",
 		"upgradesTo": "Crossbowman",
                 "promotions": ["Drill I", "Ignore terrain cost"],
-                "uniques": ["May withdraw before melee ([50]%)"],
-		"attackSound": "arrow"
+                "uniques": ["May withdraw before melee ([66]%)", "Can move immediately once bought", "[+100]% to Flank Attack bonuses"],
+		"attackSound": "crossbow"
 	},
         {
 		"name": "Elite Hoplites",
@@ -104,7 +104,7 @@
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Steel",
 		"upgradesTo": "Longswordsman",
-                "hurryCostModifier": 30,
+                "hurryCostModifier": 35,
                 "promotions": ["Legacy of the 300"],
 		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
 		"attackSound": "metalhit"
