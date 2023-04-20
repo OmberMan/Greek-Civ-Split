@@ -1,0 +1,9 @@
+[
+{
+		"name": "Philosopher",
+		"science": 1,
+		"culture": 2,
+		"greatPersonPoints": {"Great Scientist":2},
+		"color": [215,235,250]
+	},
+]
