@@ -1,7 +1,7 @@
 [
 {
 		"name": "Marine Training",
-		"uniques": ["May attack when embarked", "[1] Movement point cost to embark", "[1] Movement point cost to disembark", "Normal vision when embarked", "Eliminates combat penalty for attacking across a coast"]
+		"uniques": ["May attack when embarked", "[1] Movement point cost to embark", "[1] Movement point cost to disembark", "Eliminates combat penalty for attacking across a coast"]
 	},
         { 
                 "name": "Legacy of the 300",
@@ -10,8 +10,8 @@
         },
         { 
                 "name": "Agoge",
-		"uniques": ["[+20]% Strength", "[+33]% XP gained from combat", "[-5] HP when healing"],
-                "uniqueText": "+20% Strength & +33% XP from combat. All healing effects reduced."
+		"uniques": ["[+20]% Strength", "[+25]% XP gained from combat", "[-5] HP when healing"],
+                "uniqueText": "+20% Strength & +25% XP from combat. All healing effects slightly reduced."
 
         },
  ]
