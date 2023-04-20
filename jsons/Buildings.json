@@ -32,10 +32,36 @@
                 "culture": 1,
 	        "food": 1,
 		"cost": 75,
-		"hurryCostModifier": 40,
+		"hurryCostModifier": 20,
 		"maintenance": 1,
 		"uniques": ["New [Military] units start with [15] Experience [in this city]", "New [Military] units start with [5] Experience [in this city] <in cities with at least [5] [Population]>", "New [Military] units start with [5] Experience [in this city] <in cities with at least [10] [Population]>", "New [Military] units start with [5] Experience [in this city] <in cities with at least [15] [Population]>", "New [Military] units start with [5] Experience [in this city] <in cities with at least [20] [Population]>", "New [Military] units start with [5] Experience [in this city] <in cities with at least [25] [Population]>", "New [Military] units start with [5] Experience [in this city] <in cities with at least [30] [Population]>", "Destroyed when the city is captured"],
 	        "replacementTextForUniques": "New military units start with 15 experience, plus 5 additional experience for every 5 citizens in this city. (Up to 30 bonus XP)",
+		"requiredTech": "Bronze Working"
+	},
+	{
+		"name": "Debate Hall",
+		"uniqueTo": "Athens",
+		"replaces": "Library",
+		"specialistSlots": {"Philosopher": 2},
+		"hurryCostModifier": 20,
+                "happiness": 1,
+		"maintenance": 1,
+		"uniques": ["[+1 Science] per [2] population [in this city]", "+1 Philosopher slot (+1 [Science], +2 [Culture], +2 Great Scientist Points)"],
+		"requiredTech": "Writing",
+		"civilopediaText": [
+			{"text": "Debatable history to game translation accuracy here."},
+        ]
+	},
+	{
+		"name": "Basilikoi Paides",
+		"uniqueTo": "Macedonia",
+                "replaces": "Barracks",
+		"cost": 135,
+                "hurryCostModifier": 35,
+		"greatPersonPoints": {"Great Artist": 1},
+                "maintenance": 1,
+                "percentStatBonus": {"production": 10},
+		"uniques": ["New [Military] units start with [15] Experience [in this city]", "New [Mounted] units start with [10] Experience [in this city]", "Gain [2]-[4] [Science] <upon gaining a [Mounted] unit>", "Gain [2]-[4] [Science] <upon gaining a [Armored] unit>", "Destroyed when the city is captured"],
 		"requiredTech": "Bronze Working"
 	},
 ]
