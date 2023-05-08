@@ -119,10 +119,10 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "Boeotian League",
 		"uniques": ["Cannot build [Settler] units", "Allied City-States provide [Culture] equal to [+25]% of what they produce for themselves", "Allied City-States provide [Gold] equal to [+25]% of what they produce for themselves", "Allied City-States provide [Production] equal to [50]% of what they produce for themselves", "Gain [50] Influence with a [Great General] gift to a City-State", "[Great General] is earned [50]% faster", "Can spend Gold to annex or puppet a City-State that has been your ally for [10] turns. <after adopting [Patronage]>", "Empire enters a [3]-turn Golden Age <upon gaining a [Great] unit>", "Gain [5]-[50] [faith]<upon adopting [Patronage]>"],
-		"uniqueText": "City state influence recovers at twice the speed and degrades half as fast. \n+3 [Science] and +3 [Culture] for every other social policy adopted. \n+1 [Culture] from all [Science] buildings. \nCan annex allied CS with [Gold] after 12 turns of alliance have passed and Representation is adopted (TBR). \nCannot build settlers.",
+		//"uniqueText": "City state influence recovers at twice the speed and degrades half as fast. \n+3 [Science] and +3 [Culture] for every other social policy adopted. \n+1 [Culture] from all [Science] buildings. \nCan annex allied CS with [Gold] after 12 turns of alliance have passed and Representation is adopted (TBR). \nCannot build settlers.",
 	        "cities": ["Thebes", "Plataea","Coronea", "Orchomenus",
 			"Thespiae","Chaeronea", "Tanagra", "Chalcis", "Erythrae", "Alalcomenae", "Medeon", "Larissa", "Minyae", "Oedipae", "Copae",
 			"Abremes","Makatoun","Myltilene","Itonis", "Lebadea"],
-        "spyNames": ["Jason", "Narcissus", "Heracles", "Oedipus", "Niobe", "Andros", "Desdemona", "Antheas", "Aeneas", "Loindiraos", "Dada da du du da do do mo ne bam ba bah"]
+        "spyNames": ["Jason", "Narcissus", "Heracles", "Oedipus", "Niobe", "Andros", "Desdemona", "Antheas", "Soter", "Loindiraos", "Dada da du du da do do mo ne bam ba bah"]
     },
 ]
