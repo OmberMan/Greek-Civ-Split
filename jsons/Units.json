@@ -10,7 +10,21 @@
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Steel",
 		"upgradesTo": "Longswordsman",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+10]% Strength <when adjacent to a [Hoplite] unit>"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+15]% Strength <when adjacent to a [Hoplite] unit>"],
+		"attackSound": "metalhit"
+	},
+	  {
+		"name": "Sacred Band",
+		"unitType": "Sword",
+		"replaces": "Spearman",
+		"uniqueTo": "Thebes",
+		"movement": 2,
+		"strength": 13,
+		"cost": 80,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Steel",
+		"upgradesTo": "Longswordsman",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+150]% to Flank Attack bonuses", "Gain [10] [Culture] <upon being defeated>", "Damage is ignored when determining unit Strength", "[+33]% Strength <when defending> <when above [66] HP>", "[+100]% XP gained from combat <when above [25] HP> <when below [75] HP>", "[+33]% Strength <when below [34] HP> <when attacking>"],
 		"attackSound": "metalhit"
 	},
 {
@@ -25,7 +39,7 @@
 		"obsoleteTech": "Metallurgy",
 		"upgradesTo": "Lancer",
                 "promotions": ["Great Generals I"],
-		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+10]% Strength <when adjacent to a [Sarissa Phalanx] unit>", "[+25]% Strength <vs [Melee] units> <when defending>"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+10]% Strength <when adjacent to a [Sarissa Phalanx] unit>", "[+25]% Strength <vs [Spearman] units>", "[+25]% Strength <vs [Pikeman] units>", "[+25]% Strength <vs [Melee] units> <when defending>"],
 		"attackSound": "metalhit"
 	},
   	{
@@ -100,7 +114,7 @@
 		"uniqueTo": "Sparta",
 		"movement": 2,
 		"strength": 13,
-		"cost": 70,
+		"cost": 72,
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Steel",
 		"upgradesTo": "Longswordsman",
