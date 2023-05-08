@@ -1,5 +1,17 @@
 [
-{
+	{
+		"name": "Cadmea",
+		"replaces": "National Epic",
+		"uniqueTo": "Thebes",
+		"cost": 175,
+		"culture": 1,
+		"specialistSlots": {"Merchant": 2},
+		"percentStatBonus": {"Gold": 20, "Food": 10},
+		"isNationalWonder": true,
+		"uniques": ["Requires a [Monument] in all cities", "[+2 Gold, +1 Food] from each Trade Route", "[+25]% Great Person generation [in this city]", "Doubles Gold given to enemy if city is captured", "[-10]% maintenance cost for buildings [in this city]"],
+		"requiredTech": "Masonry"
+	},
+	{
 		"name": "Acropolis",
 		"replaces": "Walls",
 		"uniqueTo": "Athens",
@@ -61,7 +73,7 @@
 		"greatPersonPoints": {"Great Artist": 1},
                 "maintenance": 1,
                 "percentStatBonus": {"production": 10},
-		"uniques": ["New [Military] units start with [15] Experience [in this city]", "New [Mounted] units start with [10] Experience [in this city]", "Gain [2]-[4] [Science] <upon gaining a [Mounted] unit>", "Gain [2]-[4] [Science] <upon gaining a [Armored] unit>", "Destroyed when the city is captured"],
+		"uniques": ["New [Military] units start with [15] Experience [in this city]", "New [Mounted] units start with [10] Experience [in this city]", "Gain [2]-[4] [Science] <upon gaining a [Mounted] unit>", "Gain [2]-[4] [Science] <upon gaining a [Armored] unit>"],
 		"requiredTech": "Bronze Working"
 	},
 ]
