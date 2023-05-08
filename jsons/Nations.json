@@ -93,4 +93,36 @@
 	        "cities": ["Sparta", "Messene","Tegea", "Olympia"],
                 "spyNames": ["Schneider", "The Rolling Corpse of Ayn Rand"]
     },
+	{
+		"name": "Thebes",
+		"leaderName": "Epaminondas",
+		"adjective": ["Aeolic"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Diplomatic",
+		"style": "Mediterranean",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "I think it's best we deal with you now, before you become a bigger problem.",
+		"attacked": "...That was really stupid.",
+		"defeated": "I leave behind no sons, and I do not fear death. But even the most blessed of men are one day doomed to watch their mothers die before them; as Thebes burns before me, what blessing are my own victories if they could not preseve her legacy?.",
+		"introduction": "Greetings! I have been appointed to speak for Thebes, Boeotia, and all its people. May our relationship be prosperous.",
+
+		"neutralHello": "Something you wish to tell me?",
+		"hateHello": "Now, we shouldn't let old grudges distract us from our mutual intrests. \nNothing washes down bad blood like Theban wine.",
+
+		"tradeRequest": "I think this arrangement could benefit us both, yes?",
+
+		"outerColor": [165, 135, 27],
+		"innerColor": [54, 18, 114],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Boeotian League",
+		"uniques": ["Cannot build [Settler] units", "Allied City-States provide [Culture] equal to [+25]% of what they produce for themselves", "Allied City-States provide [Gold] equal to [+25]% of what they produce for themselves", "Allied City-States provide [Production] equal to [50]% of what they produce for themselves", "Gain [50] Influence with a [Great General] gift to a City-State", "[Great General] is earned [50]% faster", "Can spend Gold to annex or puppet a City-State that has been your ally for [10] turns. <after adopting [Patronage]>", "Empire enters a [3]-turn Golden Age <upon gaining a [Great] unit>", "Gain [5]-[50] [faith]<upon adopting [Patronage]>"],
+		"uniqueText": "City state influence recovers at twice the speed and degrades half as fast. \n+3 [Science] and +3 [Culture] for every other social policy adopted. \n+1 [Culture] from all [Science] buildings. \nCan annex allied CS with [Gold] after 12 turns of alliance have passed and Representation is adopted (TBR). \nCannot build settlers.",
+	        "cities": ["Thebes", "Plataea","Coronea", "Orchomenus",
+			"Thespiae","Chaeronea", "Tanagra", "Chalcis", "Erythrae", "Alalcomenae", "Medeon", "Larissa", "Minyae", "Oedipae", "Copae",
+			"Abremes","Makatoun","Myltilene","Itonis", "Lebadea"],
+        "spyNames": ["Jason", "Narcissus", "Heracles", "Oedipus", "Niobe", "Andros", "Desdemona", "Antheas", "Aeneas", "Loindiraos", "Dada da du du da do do mo ne bam ba bah"]
+    },
 ]
