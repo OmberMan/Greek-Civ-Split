@@ -45,7 +45,7 @@
 		"declaringWar": "And thus always to tyrants.",
 		"attacked": "Mmmmm, very unwise.",
 		"defeated": "Beautiful Athens... you've plunged humanity into a dark age... \nBad End.",
-		"introduction": "I greet you on behalf of Athens as her elected representive; behold the bastion of enlightenment and mother of the Ionians.",
+		"introduction": "I greet you on behalf of Athens as her elected representive; behold, the bastion of enlightenment and mother city of the Ionian Greeks.",
 
 		"neutralHello": "Yes..?",
 		"hateHello": "Come to give up your throne, tyrant?",
@@ -56,8 +56,8 @@
 		"innerColor": [40, 180, 245],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Attic Hegemony",
-		"uniques": ["Cannot build [Settler] units", "[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate", "Militaristic City-States grant units [3] times as fast when you are at war with a common nation", "[+3 Science, +3 Culture] per [2] social policies adopted", "[+1 Culture] from all [Science] buildings", "Can spend Gold to annex or puppet a City-State that has been your ally for [12] turns. <after adopting [Representation]>"],
-		"uniqueText": "City state influence recovers at twice the speed and degrades half as fast. \n+3 [Science] and +3 [Culture] for every other social policy adopted. \n+1 [Culture] from all [Science] buildings. \nCan annex allied CS with [Gold] after 12 turns of alliance have passed and Representation is adopted (TBR). \nCannot build settlers.",
+		"uniques": ["Cannot build [Settler] units", "[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate", "Militaristic City-States grant units [3] times as fast when you are at war with a common nation", "[+4 Science, +3 Culture] per [2] social policies adopted", "[+1 Culture] from all [Science] buildings", "Can spend Gold to annex or puppet a City-State that has been your ally for [15] turns <after adopting [Meritocracy]>"],
+		"uniqueText": "City state influence recovers at twice the speed and degrades half as fast. \n+5 [Science] and +3 [Culture] for every other social policy adopted. \n+1 [Culture] from all [Science] buildings. \nCan annex allied CS with [Gold] after 15 turns of alliance have passed and Representation is adopted (TBR). \nCannot build settlers.",
 	        "cities": ["Athens", "Miletos","Phocaea", "Samos",
 			"Chalkis","Naxos", "Ephesus", "Chios", "Delos", "Thasos", "Abydos", "Olynthos", "Serfios", "Smyrna", "Imbros",
 			"Patras","Lamia","Nafplion","Apolyton", "Troizen"],
@@ -74,15 +74,15 @@
 		"startIntroPart1": "",
 		"startIntroPart2": "",
 
-		"declaringWar": "Laconia's fields require fresh helots, and her markets slaves. The weak should fear the strong; we shall enforce that natural order now.",
-		"attacked": "Sparta shall never submit to foreign Cravens! Aries smiles upon us, barbaroi. You will not be walking away from this one.",
-		"defeated": "No... our society was infallible, indestructable... at least we will die with it as Spartans.",
+		"declaringWar": "Laconia's fields require fresh helots, and her markets healthy slaves! \nThe weak should fear the strong; now natural order will be enforced.",
+		"attacked": "Sparta shall never submit to foreign cravens! Apollo smiles upon us, barbarian. You will not be walking away from this one.",
+		"defeated": "No... our society was infallible, indestructable... at least we will die with it like true Spartans.",
 		"introduction": "You know where this is.",
 
-		"neutralHello": "What, barbaroi? Speak.",
-		"hateHello": "I would have settled our differences on the fields of battle, were we not currently preoccupied declaring war on our peasant class. \nYou call it madness, we call it Sparda.",
+		"neutralHello": "What, barbarian? Speak.",
+		"hateHello": "I would have settled our differences on the fields of battle, were we not currently preoccupied declaring war on our peasant class. \nWhat you may call madness, we call Sparda.",
 
-		"tradeRequest": "This is our offer. \nWe shall await your reply at the edge of a comically sized pit.",
+		"tradeRequest": "This is our offer. \nWe shall await your reply by the edge of a comically large hole.",
 
 		"outerColor": [185, 55, 30],
 		"innerColor": [205, 200, 25],
@@ -90,7 +90,7 @@
 		"uniqueName": "Kick the Helot",
 		"uniques": ["Cannot build [Settler] units", "[+1 Production, +1 Culture] from all [Barracks] buildings", "[+1] population [in capital] <upon conquering a city>", "Free [Worker] appears <upon conquering a city>", "Free [Melee] appears <upon declaring war with a major Civilization>", "[-20]% Unhappiness from [Population] [in all cities with a garrison]", "[+50]% Unhappiness from [Specialists] [in capital]", "All newly-trained [Gunpowder] units [in capital] receive the [Agoge] promotion", "All newly-trained [Sword] units [in capital] receive the [Agoge] promotion", "[+50]% Production when constructing [Military] units [in capital]"],
 		"uniqueText": "+50% [Production] of military units in the capital. \nGain 1 population in the capital and a worker upon conquering a city, and a free melee unit when declaring war. \nAll Infantry units receive the Agoge Promotion \nCannot build settlers.",
-	        "cities": ["Sparta", "Messene","Tegea", "Olympia"],
+	        "cities": ["Sparta", "Messene","Tegea", "Olympia", "Elis", "Laconia"],
                 "spyNames": ["Schneider", "The Rolling Corpse of Ayn Rand"]
     },
 	{
@@ -106,23 +106,23 @@
 
 		"declaringWar": "I think it's best we deal with you now, before you become a bigger problem.",
 		"attacked": "...That was really stupid.",
-		"defeated": "I leave behind no sons, and I do not fear death. But even the most blessed of men are one day doomed to watch their mothers die before them; as Thebes burns before me, what blessing are my own victories if they could not preseve her legacy?.",
+		"defeated": "I leave behind no sons, and I do not fear death. But even the most blessed of men are one day doomed to watch their mothers die before them. As Thebes burns before me I must ask, what blessing are my own victories if they could not preseve her legacy?.",
 		"introduction": "Greetings! I have been appointed to speak for Thebes, Boeotia, and all its people. May our relationship be prosperous.",
 
 		"neutralHello": "Something you wish to tell me?",
 		"hateHello": "Now, we shouldn't let old grudges distract us from our mutual intrests. \nNothing washes down bad blood like Theban wine.",
 
-		"tradeRequest": "I think this arrangement could benefit us both, yes?",
+		"tradeRequest": "I think this arrangement benefits us both, eh?",
 
-		"outerColor": [165, 135, 27],
+		"outerColor": [177, 147, 34],
 		"innerColor": [54, 18, 114],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Boeotian League",
-		"uniques": ["Cannot build [Settler] units", "Allied City-States provide [Culture] equal to [+25]% of what they produce for themselves", "Allied City-States provide [Gold] equal to [+25]% of what they produce for themselves", "Allied City-States provide [Production] equal to [50]% of what they produce for themselves", "Gain [50] Influence with a [Great General] gift to a City-State", "[Great General] is earned [50]% faster", "Can spend Gold to annex or puppet a City-State that has been your ally for [10] turns. <after adopting [Patronage]>", "Empire enters a [3]-turn Golden Age <upon gaining a [Great] unit>", "Gain [5]-[50] [faith]<upon adopting [Patronage]>"],
+		"uniques": ["Cannot build [Settler] units", "Allied City-States provide [Culture] equal to [+25]% of what they produce for themselves <when not at war>", "Allied City-States provide [Gold] equal to [+25]% of what they produce for themselves <when not at war>", "Allied City-States provide [Production] equal to [50]% of what they produce for themselves <when at war>", "Gain [50] Influence with a [Great General] gift to a City-State", "[Great General] is earned [50]% faster", "Can spend Gold to annex or puppet a City-State that has been your ally for [10] turns. <after adopting [Patronage]>", "Empire enters a [3]-turn Golden Age <upon gaining a [Great General] unit>", "[+2 Faith] per [3] social policies adopted"],
 		//"uniqueText": "City state influence recovers at twice the speed and degrades half as fast. \n+3 [Science] and +3 [Culture] for every other social policy adopted. \n+1 [Culture] from all [Science] buildings. \nCan annex allied CS with [Gold] after 12 turns of alliance have passed and Representation is adopted (TBR). \nCannot build settlers.",
 	        "cities": ["Thebes", "Plataea","Coronea", "Orchomenus",
-			"Thespiae","Chaeronea", "Tanagra", "Chalcis", "Erythrae", "Alalcomenae", "Medeon", "Larissa", "Minyae", "Oedipae", "Copae",
+			"Thespiae","Chaeronea", "Tanagra", "Chalcis", "Erythrae", "Alalcomenae", "Medeon", "Larissa", "Minyae", "Oedipae", "Copae", "Enodae",
 			"Abremes","Makatoun","Myltilene","Itonis", "Lebadea"],
-        "spyNames": ["Jason", "Narcissus", "Heracles", "Oedipus", "Niobe", "Andros", "Desdemona", "Antheas", "Soter", "Loindiraos", "Dada da du du da do do mo ne bam ba bah"]
+        "spyNames": ["Jason", "Narcissus", "Heracles", "Oedipus", "Niobe", "Andros", "Sappho", "Antheas", "Soter", "Loindiraos", "Enodia"]
     },
 ]
