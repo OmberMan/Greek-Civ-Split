@@ -128,13 +128,13 @@
 {
 		"name": "Corinth",
 		"adjective": ["Corinthian"],
-		"cityStateType": "Corinth-type",
+		"cityStateType": "Corinthian",
   "style": "Mediterranean",
 		"declaringWar": "You just won't listen to reason...",
 		"attacked": "Do you Trash?",
 		"defeated": "The Communion of Cellophane prepared us for this. We all end up in the trash bag eventually. Don't you want to practice for it?",
 		"outerColor": [0, 0, 0],
-		"innerColor": [253,246,232],
-		"cities": ["Corinthian", "Cotyora"]
+		"innerColor": [255,245,230],
+		"cities": ["Corinth", "Cotyora"]
 	},
 ]
