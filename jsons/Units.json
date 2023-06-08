@@ -25,7 +25,19 @@
 		"obsoleteTech": "Steel",
 		"upgradesTo": "Longswordsman",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+150]% to Flank Attack bonuses", "Gain [10] [Culture] <upon being defeated>", "Damage is ignored when determining unit Strength", "[+33]% Strength <when defending> <when above [66] HP>", "[+100]% XP gained from combat <when above [25] HP> <when below [75] HP>", "[+33]% Strength <when below [34] HP> <when attacking>"],
-		"attackSound": "metalhit"
+		"attackSound": "metalhit",
+"civilopediaText": [ 
+                         { 
+                                 "extraImage": "TileSets/FantasyHex/Units/Sacred Band", 
+                                 "imageSize": 128 
+                         }, 
+                         { 
+                                 "Separator": true 
+                         }, 
+                         { 
+                                 "text": "These guys were dope. \nSuck it Snyder" 
+                         } 
+                 ]
 	},
 {
 		"name": "Sarissa Phalanx",
@@ -40,7 +52,19 @@
 		"upgradesTo": "Lancer",
                 "promotions": ["Great Generals I"],
 		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+10]% Strength <when adjacent to a [Sarissa Phalanx] unit>", "[+25]% Strength <vs [Spearman] units>", "[+25]% Strength <vs [Pikeman] units>", "[+25]% Strength <vs [Melee] units> <when defending>"],
-		"attackSound": "metalhit"
+		"attackSound": "metalhit",
+"civilopediaText": [ 
+                         { 
+                                 "extraImage": "TileSets/FantasyHex/Units/Sarissa Phalanx", 
+                                 "imageSize": 128 
+                         }, 
+                         { 
+                                 "Separator": true 
+                         }, 
+                         { 
+                                 "text": "Do not leave exposed to halberds" 
+                         } 
+                 ]
 	},
   	{
 		"name": "Companion Cavalry",
@@ -105,7 +129,19 @@
 		"upgradesTo": "Crossbowman",
                 "promotions": ["Drill I", "Ignore terrain cost"],
                 "uniques": ["May withdraw before melee ([66]%)", "Can move immediately once bought", "[+100]% to Flank Attack bonuses"],
-		"attackSound": "crossbow"
+		"attackSound": "arrow",
+"civilopediaText": [ 
+                         { 
+                                 "extraImage": "TileSets/FantasyHex/Units/Peltast", 
+                                 "imageSize": 128 
+                         }, 
+                         { 
+                                 "Separator": true 
+                         }, 
+                         { 
+                                 "text": "Imagine being arguably the strongest warriors in Europe and also making time to mog the Greeks w/music, fashion, and wine. Phenomenal" 
+                         } 
+                 ]
 	},
         {
 		"name": "Elite Hoplites",
