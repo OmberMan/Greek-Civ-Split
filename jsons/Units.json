@@ -62,7 +62,7 @@
                                  "Separator": true 
                          }, 
                          { 
-                                 "text": "Do not leave exposed to halberds" 
+                                 "text": "Do not leave out in exposure to halberds" 
                          } 
                  ]
 	},
@@ -93,7 +93,7 @@
 		"cost": 45,
 		"requiredTech": "Sailing",
 		"uniques": ["Cannot enter ocean tiles", "Transfer Movement to [Epibatai]", "[+50]% Strength when stacked with [Epibatai]"],
-                "promotions": ["Boarding Party I"],
+                "promotions": ["Boarding Party I", "Boarding Party II"],
 		"upgradesTo": "Caravel",
 		"obsoleteTech": "Astronomy",
 		"attackSound": "nonmetalhit"
