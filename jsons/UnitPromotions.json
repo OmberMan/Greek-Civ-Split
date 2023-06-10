@@ -5,13 +5,13 @@
 	},
         { 
                 "name": "Legacy of the 300",
-		"uniques": ["[+20]% Strength <when attacking> <when adjacent to a [{Friendly} {Melee}] unit>", "[+20]% Strength <when defending>", "[-20]% Strength <when defending> <when adjacent to a [Friendly] unit>", "Damage is ignored when determining unit Strength"], 
-                "uniqueText": "+20% attacking Strength when adjacent to a friendly melee unit; +20% defensive strength when fighting alone. Fights at full strength regardless of damage."
+		"uniques": ["[+25]% Strength <when attacking> <when adjacent to a [{Friendly} {Melee}] unit>", "[+25]% Strength <when defending>", "[-25]% Strength <when defending> <when adjacent to a [Friendly] unit>", "Damage is ignored when determining unit Strength"], 
+                "replacementTextForUniques": "+25% Strength attacking beside another melee unit; +25% strength when defending alone. Fights at full strength regardless of damage."
         },
         { 
                 "name": "Agoge",
 		"uniques": ["[+20]% Strength", "[+25]% XP gained from combat", "[-5] HP when healing"],
-                "uniqueText": "+20% Strength & +25% XP from combat. All healing effects slightly reduced."
+                "replacementTextForUniques": "+20% Strength & +25% XP from combat. Healing effects are slightly reduced."
 
         },
  ]
