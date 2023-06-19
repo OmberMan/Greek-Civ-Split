@@ -157,6 +157,19 @@
                 "hurryCostModifier": 35,
                 "promotions": ["Legacy of the 300"],
 		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+"civilopediaText": [ 
+{ 
+                                 "extraImage": "TileSets/FantasyHex/Units/Elite Hoplites", 
+                                 "imageSize": 128 
+                         }, 
+                         { 
+                                 "Separator": true 
+                         }, 
+                         { 
+                                 "text": "Despite being the director's magnum opus, 300 and it's consequences have been a disaster for classical history in much of the Western public conscious." 
+                         } 
+                 ]
+	},
 		"attackSound": "metalhit"
 	},
 ]
