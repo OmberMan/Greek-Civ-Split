@@ -52,16 +52,16 @@
 
 		"tradeRequest": "Trust me, this agreement will benefit us all the most.",
 
-		"outerColor": [250, 250, 255],
-		"innerColor": [40, 180, 245],
+		"outerColor": [250, 250, 254],
+		"innerColor": [40, 183, 245],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Attic Hegemony",
 		"uniques": ["Cannot build [Settler] units", "[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate", "Militaristic City-States grant units [2] times as fast when you are at war with a common nation", "[+4 Science, +3 Culture] per [2] social policies adopted", "[+1 Culture] from all [Science] buildings", "Can spend Gold to annex or puppet a City-State that has been your ally for [15] turns <after adopting [Meritocracy]>"],
-		"uniqueText": "City state influence recovers at twice the speed and degrades half as fast. \n+5 [Science] and +3 [Culture] for every other social policy adopted. \n+1 [Culture] from all [Science] buildings. \nCan annex allied CS with [Gold] after 15 turns of alliance have passed and Representation is adopted (TBR). \nCannot build settlers.",
+		"uniqueText": "City state influence recovers at twice the speed and degrades half as fast. \n+4 [Science] and +3 [Culture] for every other social policy adopted. \n+1 [Culture] from all [Science] buildings. \nCan annex allied CS with [Gold] after 15 turns of alliance have passed and Representation is adopted (TBR). \nCannot build settlers.",
 	        "cities": ["Athens", "Miletos","Phocaea", "Samos",
 			"Chalkis","Naxos", "Ephesus", "Chios", "Delos", "Thasos", "Abydos", "Olynthos", "Serfios", "Smyrna", "Imbros",
 			"Patras","Lamia","Nafplion","Apolyton", "Troizen"],
-        "spyNames": ["Jeson", "Hiline", "Aloix", "Cletos", "Kassandros", "Andros", "Desdemona", "Antheas", "Aeneas", "Loindiraos", "Dada da du du da do do mo ne bam ba bah"]
+        "spyNames": ["Jeson", "Hiline", "Aloix", "Platon", "Kassandros", "Andros", "Desdemona", "Antheas", "Aeneas", "Loindiraos", "Dada da du du da do do mo ne bam ba bah"]
     },
 {
 		"name": "Sparta",
@@ -88,7 +88,7 @@
 		"innerColor": [205, 200, 25],
 		"favoredReligion": "Shinto",
 		"uniqueName": "Kick the Helot",
-		"uniques": ["Cannot build [Settler] units", "[+1 Production, +1 Culture] from all [Barracks] buildings", "[+1] population [in capital] <upon conquering a city>", "Free [Worker] appears <upon conquering a city>", "Free [Melee] appears <upon declaring war with a major Civilization>", "[-20]% Unhappiness from [Population] [in all cities with a garrison]", "[+50]% Unhappiness from [Specialists] [in capital]", "All newly-trained [Gunpowder] units [in capital] receive the [Agoge] promotion", "All newly-trained [Sword] units [in capital] receive the [Agoge] promotion", "[+50]% Production when constructing [Military] units [in capital]"],
+		"uniques": ["Cannot build [Settler] units","Free [Melee] appears <upon constructing [Production] [in capital]> <with [33]% chance>", "[+1 Production, +1 Culture] from all [Barracks] buildings", "[+1] population [in capital] <upon conquering a city>", "Free [Worker] appears <upon conquering a city>", "Free [Melee] appears <upon declaring war with a major Civilization>", "[-20]% Unhappiness from [Population] [in all cities with a garrison]", "[+50]% Unhappiness from [Specialists] [in capital]", "All newly-trained [Gunpowder] units [in capital] receive the [Agoge] promotion", "All newly-trained [Sword] units [in capital] receive the [Agoge] promotion", "[+50]% Production when constructing [Military] units [in capital]"],
 		"uniqueText": "+50% [Production] of military units in the capital. \nGain 1 population in the capital and a worker upon conquering a city, and a free melee unit when declaring war. \nAll Infantry units receive the Agoge Promotion \nCannot build settlers.",
 	        "cities": ["Sparta", "Messene","Tegea", "Olympia", "Elis", "Laconia"],
                 "spyNames": ["Schneider", "The Rolling Corpse of Ayn Rand"]
@@ -116,7 +116,7 @@
 
 		"outerColor": [177, 147, 34],
 		"innerColor": [54, 18, 114],
-		"favoredReligion": "Christianity",
+		"favoredReligion": "Zoroastrianism",
 		"uniqueName": "Boeotian League",
 		"uniques": ["Cannot build [Settler] units", "Allied City-States provide [Culture] equal to [+25]% of what they produce for themselves <when not at war>", "Allied City-States provide [Gold] equal to [+25]% of what they produce for themselves <when not at war>", "Allied City-States provide [Production] equal to [50]% of what they produce for themselves <when at war>", "Militaristic City-States grant units [5] times as fast when you are at war with a common nation", "Gain [50] Influence with a [Great General] gift to a City-State", "[Great General] is earned [50]% faster", "Can spend Gold to annex or puppet a City-State that has been your ally for [10] turns. <after adopting [Patronage]>", "Empire enters a [3]-turn Golden Age <upon gaining a [Great General] unit>", "[+2 Faith] per [3] social policies adopted"],
 		"uniqueText": "City state allies grant 1/4th of their [Gold] and [Culture] output when at peace, and half their [Production] output when at war.\n Great Generals automatically start at 3 turn Golden Age upon spawning, are earned at twice the rate and earn 50 influence when gifted. \nCan annex allied CS with [Gold] after 10 turns of alliance have passed and Patronage is adopted (TBR). Every third policy adopted yields +2 [Faith] per turn.\nCannot build settlers.",
@@ -130,11 +130,12 @@
 		"adjective": ["Corinthian"],
 		"cityStateType": "Corinthian",
   "style": "Mediterranean",
-		"declaringWar": "You just won't listen to reason...",
-		"attacked": "Do you Trash?",
-		"defeated": "The Communion of Cellophane prepared us for this. We all end up in the trash bag eventually. Don't you want to practice for it?",
+		"declaringWar": "We warned you, you little shits. We made this colony and we can unmake it too.",
+		"attacked": "S-Shit - SPARTAAAA! HEEELP!",
+		"defeated": "Oh our beautiful polis, oh, woe is Corinth. You'll at least finish my canal project, won't you?",
 		"outerColor": [0, 0, 0],
-		"innerColor": [255,245,230],
-		"cities": ["Corinth", "Cotyora"]
+		"innerColor": [255,248,235],
+"uniques": ["[+1 Culture] from all [All] buildings", "[+1 Happiness, +1 Gold] from all [All] buildings <during a Golden Age>"],
+		"cities": ["Corinth", "Kotyora"]
 	},
 ]
