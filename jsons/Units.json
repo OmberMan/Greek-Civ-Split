@@ -62,7 +62,7 @@
                                  "Separator": true 
                          }, 
                          { 
-                                 "text": "Do not leave out in exposure to halberds" 
+                                 "text": "Do not leave out in areas exposed to halberds" 
                          } 
                  ]
 	},
@@ -170,6 +170,7 @@
                          } 
                  ]
 	},
+{
 		"attackSound": "metalhit"
 	},
 ]
