@@ -16,7 +16,7 @@
 		"introduction": "Hello stranger! I am Alexandros, son of kings and grandson of the gods!",
 
 		"neutralHello": "Greetings!",
-		"hateHello": "What?",
+		"hateHello": "What?!",
 
 		"tradeRequest": "My friend, does this seem reasonable to you?",
 
@@ -43,14 +43,14 @@
 		"startIntroPart2": "",
 
 		"declaringWar": "And thus always to tyrants.",
-		"attacked": "Mmmmm, very unwise.",
+		"attacked": "Mmmm, very unwise.",
 		"defeated": "Beautiful Athens... you've plunged humanity into a dark age... \nBad End.",
 		"introduction": "I greet you on behalf of Athens as her elected representive; behold, the bastion of enlightenment and mother city of the Ionian Greeks.",
 
 		"neutralHello": "Yes..?",
 		"hateHello": "Come to give up your throne, tyrant?",
 
-		"tradeRequest": "Trust me, this agreement will benefit us all the most.",
+		"tradeRequest": "Trust us, this agreement will benefit all of us the most, I'm sure I don't have to bore you with the specifics.",
 
 		"outerColor": [250, 250, 254],
 		"innerColor": [40, 183, 245],
@@ -90,8 +90,8 @@
 		"uniqueName": "Kick the Helot",
 		"uniques": ["Cannot build [Settler] units","Free [Melee] appears <upon constructing [Production] [in capital]> <with [33]% chance>", "[+1 Production, +1 Culture] from all [Barracks] buildings", "[+1] population [in capital] <upon conquering a city>", "Free [Worker] appears <upon conquering a city>", "Free [Melee] appears <upon declaring war with a major Civilization>", "[-20]% Unhappiness from [Population] [in all cities with a garrison]", "[+50]% Unhappiness from [Specialists] [in capital]", "All newly-trained [Gunpowder] units [in capital] receive the [Agoge] promotion", "All newly-trained [Sword] units [in capital] receive the [Agoge] promotion", "[+50]% Production when constructing [Military] units [in capital]"],
 		"uniqueText": "+50% [Production] of military units in the capital. \nGain 1 population in the capital and a worker upon conquering a city, and a free melee unit when declaring war. \nAll Infantry units receive the Agoge Promotion \nCannot build settlers.",
-	        "cities": ["Sparta", "Messene","Tegea", "Olympia", "Elis", "Laconia"],
-                "spyNames": ["Schneider", "The Rolling Corpse of Ayn Rand"]
+	        "cities": ["Sparta", "Messene","Tegea", "Olympia", "Elis", "Laconium"],
+                "spyNames": ["Schnider", "The Rolling Corpse of Ayn Rand"]
     },
 	{
 		"name": "Thebes",
@@ -104,18 +104,18 @@
 		"startIntroPart1": "",
 		"startIntroPart2": "",
 
-		"declaringWar": "I think it's best we deal with you now, before you become a bigger problem.",
+		"declaringWar": "I think it's best we deal with you now, lest you become a bigger issue.",
 		"attacked": "...That was really stupid.",
-		"defeated": "I leave behind no sons, and I do not fear death. But even the most blessed of men are one day doomed to watch their mothers die before them. As Thebes burns before me I must ask, what blessing are my own victories if they could not preseve her legacy?.",
-		"introduction": "Greetings! I have been appointed to speak for Thebes, Boeotia, and all its people. May our relationship be prosperous.",
+		"defeated": "I leave behind no sons, and I do not fear death. But even the most blessed of men are one day doomed to watch their mothers die before them. \nAs Thebes burns before me I must ask, what blessing are my own victories if they could not preseve her legacy?.",
+		"introduction": "Greetings. I have been appointed to speak for Thebes, Boeotia, and all its people. May our relationship be a prosperous one.",
 
 		"neutralHello": "Something you wish to tell me?",
 		"hateHello": "Now, we shouldn't let old grudges distract us from our mutual intrests. \nNothing washes down bad blood like Theban wine.",
 
-		"tradeRequest": "I think this arrangement benefits us both, eh?",
+		"tradeRequest": "I think this arrangement is in both our interests, eh?",
 
-		"outerColor": [177, 147, 34],
-		"innerColor": [54, 18, 114],
+		"outerColor": [182, 151, 37],
+		"innerColor": [52, 17, 114],
 		"favoredReligion": "Zoroastrianism",
 		"uniqueName": "Boeotian League",
 		"uniques": ["Cannot build [Settler] units", "Allied City-States provide [Culture] equal to [+25]% of what they produce for themselves <when not at war>", "Allied City-States provide [Gold] equal to [+25]% of what they produce for themselves <when not at war>", "Allied City-States provide [Production] equal to [50]% of what they produce for themselves <when at war>", "Militaristic City-States grant units [5] times as fast when you are at war with a common nation", "Gain [50] Influence with a [Great General] gift to a City-State", "[Great General] is earned [50]% faster", "Can spend Gold to annex or puppet a City-State that has been your ally for [10] turns. <after adopting [Patronage]>", "Empire enters a [3]-turn Golden Age <upon gaining a [Great General] unit>", "[+2 Faith] per [3] social policies adopted"],
@@ -130,12 +130,12 @@
 		"adjective": ["Corinthian"],
 		"cityStateType": "Corinthian",
   "style": "Mediterranean",
-		"declaringWar": "We warned you, you little shits. We made this colony and we can unmake it too.",
-		"attacked": "Sh-Shit - SPARTAAAA! HEEELP!",
-		"defeated": "Oh our beautiful polis, oh, woe is Corinth. You'll at least finish my canal project, won't you?",
+		"declaringWar": "We warned you. We made this colony and we can unmake it too.",
+		"attacked": "Sh-Shit - SPARTAAAA! \nHEEELP!",
+		"defeated": "Oh, our beautiful polis, oh, woe is Corinth. You'll at least finish my canal project, won't you?",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255,248,235],
-"uniques": ["[+1 Culture] from all [All] buildings", "[+1 Happiness, +1 Gold] from all [All] buildings <during a Golden Age>"],
+"uniques": ["[+1 Culture] from all [Building] buildings", "[+1 Happiness, +1 Gold] from all [Building] buildings <during a Golden Age>"],
 		"cities": ["Corinth", "Kotyora"]
 	},
 ]
