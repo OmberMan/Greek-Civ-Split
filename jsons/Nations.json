@@ -135,7 +135,7 @@
 		"defeated": "Oh, our beautiful polis, oh, woe is Corinth. You'll at least finish my canal project, won't you?",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255,248,235],
-"uniques": ["[+1 Culture] from all [Building] buildings", "[+1 Happiness, +1 Gold] from all [Building] buildings <during a Golden Age>"],
+  "uniques": ["[+1 Culture] from all [Building] buildings", "[+1 Happiness, +1 Gold] from all [Building] buildings <during a Golden Age>"],
 		"cities": ["Corinth", "Kotyora"]
 	},
 ]
