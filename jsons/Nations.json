@@ -132,10 +132,10 @@
   "style": "Mediterranean",
 		"declaringWar": "We warned you. We made this colony and we can unmake it too.",
 		"attacked": "Sh-Shit - SPARTAAAA! \nHEEELP!",
-		"defeated": "Oh, our beautiful polis, oh, woe is Corinth. You'll at least finish my canal project, won't you?",
+		"defeated": "Oh, our beautiful polis, ohh, woe is Corinth. You'll at least finish my canal project, won't you?",
 		"outerColor": [0, 0, 0],
   "innerColor": [255, 245, 230],
-  "uniques": ["[+1 Culture] from all [Building] buildings", "[+1 Happiness, +1 Gold] from all [Building] buildings <during a Golden Age>"],
+  "uniques": ["[+1 Culture] from all [All] buildings", "[+1 Happiness, +1 Gold] from all [All] buildings <during a Golden Age>"],
 		"cities": ["Corinth", "Kotyora"]
 	},
 ]
