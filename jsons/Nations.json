@@ -128,7 +128,7 @@
 {
 		"name": "Corinth",
 		"adjective": ["Corinthian"],
-		"cityStateType": "Corinthian",
+		"cityStateType": "Corinthian-type",
   "style": "Mediterranean",
 		"declaringWar": "We warned you. We made this colony and we can unmake it too.",
 		"attacked": "Sh-Shit - SPARTAAAA! \nHEEELP!",
