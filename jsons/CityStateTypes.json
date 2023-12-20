@@ -3,7 +3,7 @@
           "name": "Corinthian-type",  
           "friendBonusUniques": [  
 "[+1 Culture] from every [Building] [in capital]",  
-"[+4 Gold] [in all coastal cities] <before from the [Industrial era]>",  
+"[+4 Gold] [in all coastal cities] <before the [Industrial era]>",  
 "[+8 Gold] [in all coastal cities] <starting from the [Industrial era]>"],  
           "allyBonusUniques": [ 
 "[+1 Culture, +1 Happiness] from every [Building] [in capital]",    
