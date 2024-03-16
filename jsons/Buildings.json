@@ -7,7 +7,7 @@
 		"culture": 2,
   "cityHealth": 25,
  	"greatPersonPoints": {"Great General": 1},
-		"specialistSlots": {"Merchant": 2},
+		"specialistSlots": {"Merchant": 1},
 		"percentStatBonus": {"Gold": 25, "Food": 15},
 		"isNationalWonder": true,
 		"uniques": ["Requires a [Monument] in all cities", "[+25]% Great Person generation [in this city]", "Doubles Gold given to enemy if city is captured", "[-10]% maintenance cost for buildings [in this city]"],
@@ -75,7 +75,7 @@
                 "hurryCostModifier": 35,
 		"specialistSlots": {"Artist": 1},
                 "maintenance": 2,
-                "percentStatBonus": {"production": 10},
+                "percentStatBonus": {"production": 5},
 		"uniques": ["New [Military] units start with [15] Experience [in this city]", "New [Mounted] units start with [10] Experience [in this city]", "Gain [2]-[4] [Science] <upon gaining a [Mounted] unit>", "Gain [2]-[4] [Science] <upon gaining a [Armored] unit>"],
 		"requiredTech": "Bronze Working"
 	},
