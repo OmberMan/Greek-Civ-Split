@@ -9,7 +9,15 @@
 	        "science": 10,
 	        "faith": 4,
 	        "military": 4,
-	        "warMongering": 4
+	        "warMongering": 4,
+"priorities": {
+    "Freedom": 50,
+    "Liberty": 50,
+    "Rationalism": 50,
+    "Exploration": 20,
+    "Patronage": 10,
+    "Aesthetics": 10
+}
 	},
 {
 		"name": "Spartan",
@@ -21,7 +29,12 @@
 	        "science": 3,
 	        "faith": 3,
 	        "military": 10,
-	        "warMongering": 10
+	        "warMongering": 10,
+"priorities": {
+    "Tradition": 40,
+    "Honor": 80,
+    "Autocracy": 20
+}
 	},
 {
 		"name": "Thebian",
@@ -33,7 +46,13 @@
 	        "science": 5,
 	        "faith": 7,
 	        "military": 7,
-	        "warMongering": 5
+	        "warMongering": 5,
+"priorities": {
+    "Patronage": 30,
+    "Aesthetics": 10,
+    "Commerce": 20,
+    "Rationalism": 10
+}
 	},
 	{
 		"name": "Macedonian",
