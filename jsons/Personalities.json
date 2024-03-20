@@ -1,0 +1,50 @@
+[
+{
+		"name": "Athenian",
+		"preferredVictoryType": "Diplomatic",
+	        "food": 4,
+	        "production": 3,
+	        "gold": 6,
+	        "culture": 8,
+	        "science": 10,
+	        "faith": 4,
+	        "military": 4,
+	        "warMongering": 4
+	},
+{
+		"name": "Spartan",
+		"preferredVictoryType": "Domination",
+	        "food": 6,
+	        "production": 6,
+	        "gold": 4,
+	        "culture": 5,
+	        "science": 3,
+	        "faith": 3,
+	        "military": 10,
+	        "warMongering": 10
+	},
+{
+		"name": "Thebean",
+		"preferredVictoryType": "Diplomatic",
+	        "food": 7,
+	        "production": 5,
+	        "gold": 8,
+	        "culture": 6,
+	        "science": 5,
+	        "faith": 7,
+	        "military": 7,
+	        "warMongering": 5
+	},
+	{
+		"name": "Macedonian",
+		"preferredVictoryType": "Domination",
+	        "food": 4,
+	        "production": 5,
+	        "gold": 5,
+	        "culture": 6,
+	        "science": 7,
+	        "faith": 4,
+	        "military": 9,
+	        "warMongering": 9
+	},
+]
