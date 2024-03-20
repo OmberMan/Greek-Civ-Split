@@ -4,8 +4,8 @@
 		"preferredVictoryType": "Diplomatic",
 	        "food": 4,
 	        "production": 3,
-	        "gold": 6,
-	        "culture": 8,
+	        "gold": 7,
+	        "culture": 9,
 	        "science": 10,
 	        "faith": 4,
 	        "military": 4,
@@ -24,7 +24,7 @@
 	        "warMongering": 10
 	},
 {
-		"name": "Thebean",
+		"name": "Thebian",
 		"preferredVictoryType": "Diplomatic",
 	        "food": 7,
 	        "production": 5,
@@ -40,11 +40,11 @@
 		"preferredVictoryType": "Domination",
 	        "food": 4,
 	        "production": 5,
-	        "gold": 5,
+	        "gold": 4,
 	        "culture": 6,
 	        "science": 7,
 	        "faith": 4,
-	        "military": 9,
+	        "military": 10,
 	        "warMongering": 9
 	},
 ]
