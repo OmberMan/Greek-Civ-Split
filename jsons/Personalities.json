@@ -3,12 +3,12 @@
 		"name": "Athenian",
 		"preferredVictoryType": "Diplomatic",
 	        "food": 4,
-	        "production": 3,
+	        "production": 2,
 	        "gold": 7,
 	        "culture": 9,
 	        "science": 10,
 	        "faith": 4,
-	        "military": 4,
+	        "military": 5,
 	        "warMongering": 4,
 "priorities": {
     "Freedom": 50,
@@ -17,7 +17,8 @@
     "Exploration": 20,
     "Patronage": 10,
     "Aesthetics": 10
-}
+},
+	"uniques": ["Will not build [Settler]"],
 	},
 {
 		"name": "Spartan",
@@ -34,7 +35,8 @@
     "Tradition": 40,
     "Honor": 80,
     "Autocracy": 20
-}
+},
+	"uniques": ["Will not build [Settler]", "Will not build [Archery]"]
 	},
 {
 		"name": "Thebian",
@@ -52,7 +54,8 @@
     "Aesthetics": 10,
     "Commerce": 20,
     "Rationalism": 10
-}
+},
+	"uniques": ["Will not build [Settler]"]
 	},
 	{
 		"name": "Macedonian",
@@ -60,9 +63,9 @@
 	        "food": 4,
 	        "production": 5,
 	        "gold": 4,
-	        "culture": 6,
+	        "culture": 7,
 	        "science": 7,
-	        "faith": 4,
+	        "faith": 3,
 	        "military": 10,
 	        "warMongering": 9
 	},
