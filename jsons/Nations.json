@@ -143,4 +143,37 @@
   "uniques": ["[+1 Culture] from all [All] buildings", "[+1 Happiness, +1 Gold] from all [All] buildings <during a Golden Age>", "[+20]% Production when constructing [Naval] units [in capital]"],
 		"cities": ["Corinth", "Kotyora", "Zorinth"]
 	},
+/*{
+		"name": "Syracuse",
+		"leaderName": "Dionysus II",
+		"adjective": ["Sicilliote"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Neutral",
+		"style": "Mediterranean",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "And thus always to tyrants.",
+		"attacked": "Mmmm, very unwise.",
+		"defeated": "Beautiful Athens... you've plunged humanity into a dark age... \nBad End.",
+		"introduction": "I greet you on behalf of Athens as her elected representive; behold, the bastion of enlightenment and mother city of the Ionian Greeks.",
+
+		"neutralHello": "Yes..?",
+		"hateHello": "Come to give up your throne, tyrant?",
+
+		"tradeRequest": "Trust us, this agreement will benefit all of us the most, I'm sure I don't have to bore you with the specifics.",
+
+		"outerColor": [124, 56, 204],
+		"innerColor": [37, 27, 21],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Magna Graecia",
+  "personality": "Syracuse", 
+		"uniques": ["Cannot build [Settler] units", "[+1 Culture, +1 Production] from every [Scientist]", "[+1 Culture, +1 Science] from every [Engineer]", "[+40]% City Strength from defensive buildings", "Militaristic City-States grant units [2] times as fast when you are at war with a common nation", "[+4 Science, +3 Culture] per [2] social policies adopted", "[+1 Culture] from all [Science] buildings", "Can spend Gold to annex or puppet a City-State that has been your ally for [15] turns <after adopting [Meritocracy]>"],
+		"uniqueText": "City state influence recovers at twice the speed and degrades half as fast. \n+4 [Science] and +3 [Culture] for every other social policy adopted. \n+1 [Culture] from all [Science] buildings. \nCan annex allied CS with [Gold] after 15 turns of alliance have passed and Representation is adopted (TBR). \nCannot build settlers.",
+	        "cities": ["Athens", "Miletos","Phocaea", "Samos",
+			"Chalkis","Naxos", "Ephesus", "Chios", "Delos", "Thasos", "Abydos", "Olynthos", "Serfios", "Smyrna", "Imbros",
+			"Patras","Lamia","Nafplion","Apolyton", "Troizen"],
+        "spyNames": ["Jeson", "Hiline", "Aloix", "Platon", "Kassandros", "Andros", "Desdemona", "Antheas", "Aeneas", "Loindiraos", "Dada da du du da do do mo ne bam ba bah"]
+    },*/
 ]
