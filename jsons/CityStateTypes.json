@@ -3,12 +3,14 @@
           "name": "Corinthian-type",  
           "friendBonusUniques": [  
 "[+1 Culture] from every [Building] [in capital]",  
-"[+4 Gold] [in all coastal cities] <before the [Industrial era]>",  
-"[+8 Gold] [in all coastal cities] <starting from the [Industrial era]>"],  
+"[+4 Gold] [in all coastal cities] <before the [Medieval era]>",  
+"[+6 Gold] [in all coastal cities] <starting from the [Medieval era]> <before the [Industrial era]>",  
+"[+10 Gold] [in all coastal cities] <starting from the [Industrial era]>"],  
           "allyBonusUniques": [ 
-"[+1 Culture, +1 Happiness] from every [Building] [in capital]",    
-"[+14 Gold] [in all coastal cities] <starting from the [Industrial era]>",  
-"[+7 Gold] [in all coastal cities] <before the [Industrial era]>",
+"[+2 Culture, +1 Happiness] from every [Building] [in capital]",    
+"[+16 Gold] [in all coastal cities] <starting from the [Industrial era]>",  
+"[+7 Gold] [in all coastal cities] <before the [Medieval era]>",  
+"[+10 Gold] [in all coastal cities] <starting from the [Medieval era]> <before the [Industrial era]>",  
 "Provides a unique luxury"],  
           "color": [255, 210, 230]  
       }, 
