@@ -171,8 +171,8 @@
   "personality": "Syracuse", 
 		"uniques": ["Cannot build [Settler] units", "[+1 Culture, +1 Production] from every [Scientist]", "[+1 Culture, +1 Science] from every [Engineer]", "[+40]% City Strength from defensive buildings", "Militaristic City-States grant units [2] times as fast when you are at war with a common nation", "[+4 Science, +3 Culture] per [2] social policies adopted", "[+1 Culture] from all [Science] buildings", "Can spend Gold to annex or puppet a City-State that has been your ally for [15] turns <after adopting [Meritocracy]>"],
 		"uniqueText": "City state influence recovers at twice the speed and degrades half as fast. \n+4 [Science] and +3 [Culture] for every other social policy adopted. \n+1 [Culture] from all [Science] buildings. \nCan annex allied CS with [Gold] after 15 turns of alliance have passed and Representation is adopted (TBR). \nCannot build settlers.",
-	        "cities": ["Athens", "Miletos","Phocaea", "Samos",
-			"Chalkis","Naxos", "Ephesus", "Chios", "Delos", "Thasos", "Abydos", "Olynthos", "Serfios", "Smyrna", "Imbros",
+	        "cities": ["Syracuse",  "Tauromenion","Akrai",
+			"Tyndaris", "Aitna","Ankon", "Kephaloidion", "Chios", "Delos", "Thasos", "Abydos", "Olynthos", "Serfios", "Smyrna", "Imbros",
 			"Patras","Lamia","Nafplion","Apolyton", "Troizen"],
         "spyNames": ["Jeson", "Hiline", "Aloix", "Platon", "Kassandros", "Andros", "Desdemona", "Antheas", "Aeneas", "Loindiraos", "Dada da du du da do do mo ne bam ba bah"]
     },*/
