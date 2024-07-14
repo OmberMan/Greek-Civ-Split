@@ -17,7 +17,7 @@
 		"introduction": "Hello stranger! I am Alexandros, son of kings and grandson of the gods!",
 
 		"neutralHello": "Welcome!",
-		"hateHello": "What?!",
+		"hateHello": "What, wretch?!",
 
 		"tradeRequest": "My friend, does this seem reasonable to you?",
 
@@ -114,7 +114,7 @@
 		"introduction": "Greetings. I have been appointed to speak for Thebes, Boeotia, and all its people. May our relationship be a prosperous one.",
 
 		"neutralHello": "Something you wish to tell me?",
-		"hateHello": "You shouldn't let old slights distract you from our mutual intrests. \nNothing washes down bad blood like Boeotian wine.",
+		"hateHello": "You shouldn't let old slights distract you from our mutual intrests. \nNothing washes away bad blood like Boeotian wine.",
 
 		"tradeRequest": "I think this arrangement is in both our interests, eh?",
 
@@ -140,7 +140,7 @@
 		"defeated": "Oh, our beautiful polis, ohh, woe is Corinth. You'll at least finish my canal project, won't you?",
 		"outerColor": [0, 0, 0],
   "innerColor": [250, 235, 240],
-  "uniques": ["[+1 Culture] from all [All] buildings", "[+1 Happiness, +1 Gold] from all [All] buildings <during a Golden Age>", "[+20]% Production when constructing [Naval] units [in capital]"],
+  "uniques": ["[+1 Culture] from all [All] buildings", "[+1 Happiness, +1 Gold] from all [All] buildings <during a Golden Age>", "[+40]% Production when constructing [Naval] units [in capital]"],
 		"cities": ["Corinth", "Kotyora", "Zorinth"]
 	},
 /*{
