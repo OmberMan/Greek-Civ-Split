@@ -6,7 +6,7 @@
 		"uniqueTo": "Macedonia",
 		"movement": 2,
 		"strength": 13,
-		"cost": 56,
+		"cost": 63,
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Steel",
 		"upgradesTo": "Longswordsman",
@@ -19,12 +19,12 @@
 		"replaces": "Spearman",
 		"uniqueTo": "Thebes",
 		"movement": 2,
-		"strength": 13,
-		"cost": 80,
+		"strength": 11,
+		"cost": 75,
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Steel",
 		"upgradesTo": "Longswordsman",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+150]% to Flank Attack bonuses", "Gain [10] [Culture] <upon being defeated>", "Damage is ignored when determining unit Strength", "[+33]% Strength <when defending> <when above [66] HP>", "[+100]% XP gained from combat <when above [25] HP> <when below [75] HP>", "[+33]% Strength <when below [34] HP> <when attacking>"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+100]% to Flank Attack bonuses", "Gain [10] [Culture] <upon being defeated>", "No damage penalty for wounded units", "[+33]% Strength <when defending> <when above [66] HP>", "[+100]% XP gained from combat <when above [25] HP> <when below [75] HP>", "[+33]% Strength <when below [34] HP> <when attacking>"],
 		"attackSound": "metalhit",
 "civilopediaText": [ 
                          { 
@@ -51,7 +51,7 @@
 		"obsoleteTech": "Metallurgy",
 		"upgradesTo": "Lancer",
                 "promotions": ["Great Generals I"],
-		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+10]% Strength <when adjacent to a [Sarissa Phalanx] unit>", "[+25]% Strength <vs [Spearman] units>", "[+25]% Strength <vs [Pikeman] units>", "[+25]% Strength <vs [Melee] units> <when defending>"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+10]% Strength <when adjacent to a [Sarissa Phalanx] unit>", "[+25]% Strength <vs [Spearman] units>", "[+25]% Strength <vs [Pikeman] units>", "[+20]% Strength <vs [Melee] units> <when defending>"],
 		"attackSound": "metalhit",
 "civilopediaText": [ 
                          { 
@@ -89,7 +89,7 @@
 		"uniqueTo": "Athens",
 		"replaces": "Trireme",
 		"movement": 4,
-		"strength": 11,
+		"strength": 10,
 		"cost": 45,
 		"requiredTech": "Sailing",
 		"uniques": ["Cannot enter ocean tiles", "Transfer Movement to [Epibatai]", "[+50]% Strength when stacked with [Epibatai]"],
