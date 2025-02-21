@@ -5,7 +5,7 @@
 	},
         { 
                 "name": "Legacy of the 300",
-		"uniques": ["[+25]% Strength <when attacking> <when adjacent to a [{Friendly} {Melee}] unit>", "[+25]% Strength <when defending>", "[-25]% Strength <when defending> <when adjacent to a [Friendly] unit>", "Damage is ignored when determining unit Strength"], 
+		"uniques": ["[+25]% Strength <when attacking> <when adjacent to a [{Friendly} {Melee}] unit>", "[+25]% Strength <when defending>", "[-25]% Strength <when defending> <when adjacent to a [Friendly] unit>", "No damage penalty for wounded units"], 
                 "replacementTextForUniques": "+25% Strength attacking beside another melee unit; +25% strength when defending alone. Fights at full strength regardless of damage."
         },
         { 
