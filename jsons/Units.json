@@ -129,7 +129,7 @@
 		"upgradesTo": "Crossbowman",
                 "promotions": ["Drill I", "Ignore terrain cost"],
                 "uniques": ["May withdraw before melee ([66]%)", "Can move immediately once bought", "[+100]% to Flank Attack bonuses"],
-		"attackSound": "arrow",
+		"attackSound": "throw",
 "civilopediaText": [ 
                          { 
                                  "extraImage": "TileSets/FantasyHex/Units/Peltast", 
@@ -216,4 +216,21 @@
 		"upgradesTo": "Caravel",
 		"attackSound": "nonmetalhit"
 	},
+	{
+		"name": "Gastraphetites",
+		"replaces": "Composite Bowman",
+		"uniqueTo": "Syracuse",
+		"unitType": "Archery",
+		"movement": 2,
+		"strength": 7,
+		"rangedStrength": 19,
+                "range": 2,
+		"cost": 80,
+		"hurryCostModifier": 20,
+		"requiredTech": "Construction",
+		"obsoleteTech": "Machinery",
+		"upgradesTo": "Crossbowman",
+                "uniques": ["Must set up to ranged attack <in tiles without [City center]>", "[-20]% Strength <vs [Siege] units> <when attacking>", "[-20]% Strength <vs cities> <when attacking>", "[-20]% Strength <vs [Naval] units> <when attacking>"]
+		"attackSound": "arrow",
+	}
 ]
