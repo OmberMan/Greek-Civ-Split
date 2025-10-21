@@ -169,16 +169,27 @@
 		"requiredTech": "Plastics"
 	},
 	{
+		"name": "Architectural Marvel",
+		"uniqueTo": "Syracuse",
+		"cost": 100,
+		"culture": 1,
+  "cityHealth": 20,
+  "cityStrength": 5,
+ 	"greatPersonPoints": {"Great Engineer": 1},
+		"isNationalWonder": true,
+		"uniques": ["[+5]% Great Person generation [in this city]", "[+5]% Production when constructing [All] wonders [in this city]", "Population loss from nuclear attacks [-10]% [in this city]", "Destroyed when the city is captured", "Gain a free [Miracle of Engineering] [in this city] <upon expending a [Great Engineer] unit>"],
+	},
+			{
 		"name": "Claw of Archimedes",
 		"uniqueTo": "Syracuse",
-		"cost": 150,
-		"culture": 2,
-  "cityHealth": 50,
-  "cityStrength": 25,
+		"cost": 200,
+		"production": 1,
+  "cityStrength": 20,
  	"greatPersonPoints": {"Great Engineer": 1},
 		"specialistSlots": {"Polymath": 1},
 		"isNationalWonder": true,
-		"uniques": ["Requires a [Monument] in all cities", "[+25]% Great Person generation [in this city]", "Doubles Gold given to enemy if city is captured", "[-10]% maintenance cost for buildings [in this city]"],
-		"requiredTech": "Consruction"
+		"uniques": ["[+15]% Production when constructing [All] buildings [in this city]", "[+20]% Production when constructing [Naval] units [in this city]", "Destroyed when the city is captured", "Enemy [Naval] units must spend [1] extra movement points when inside your territory", "Creates a [Enormous Claw] improvement on a specific tile"],
+		"requiredTech": "Construction"
+}
 } */
 ]
