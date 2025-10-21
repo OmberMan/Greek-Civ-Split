@@ -148,7 +148,7 @@
 		"leaderName": "Dionysus II",
 		"adjective": ["Sicilliote"],
 		"startBias": ["Coast"],
-		"preferredVictoryType": "Neutral",
+		"preferredVictoryType": "Science",
 		"style": "Mediterranean",
 
 		"startIntroPart1": "",
@@ -156,11 +156,11 @@
 
 		"declaringWar": "It's time you exited the picture.",
 		"attacked": "Ha! You idiot.",
-		"defeated": "The sword of Damocles finally falls... To be honest, I never thought I'd see the day. \nMay your reign be short, and your death slow.",
+		"defeated": "Damnit, why on earth did I leave that sword up there...",
 		"introduction": "Congragulations, you're in Syracuse.",
 
 		"neutralHello": "Do you also appreciate the higher pleasures in life?",
-		"hateHello": "Fuck, its you.",
+		"hateHello": "Back to whine my ear off?",
 
 		"tradeRequest": "This is what I'm willing to offer.",
 
@@ -169,7 +169,7 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "Magna Graecia",
   "personality": "Syracussy", 
-		"uniques": ["Cannot annex cities", "[+1 Culture] from every [Scientist]", "[+2 Science] from every [Engineer]", "Gain a free [Architectural Marvel] [in a random city] <upon gaining a [Great Engineer] unit>"],
+		"uniques": ["Cannot build [Settler] units", "Gain a free [Architectural Marvel] [in capital] <upon gaining a [Great Engineer] unit>", "[+33]% Production when constructing [Siege] units [in all cities]", "[-33]% Gold cost of upgrading <for [Siege] units>"],
 	        "cities": ["Syracuse", "Sybaris","Tarentum",
 			"Croton", "Neapolis","Archaotzeirsli", "Posidonia", "Austin"],
         "spyNames": ["Damoclese Nuts", "Helen"]
