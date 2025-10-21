@@ -186,4 +186,34 @@
 		"promotions": ["[Enchophoros] ability"],
 		"attackSound": "throw"
 	},
+		{
+		"name": "Minoan Archer",
+		"uniqueTo": "Minoa",
+		"replaces": "Composite Bowman"
+		"unitType": "Archery",
+		"movement": 2,
+		"strength": 6,
+		"rangedStrength": 11,
+		"cost": 75,
+		"requiredTech": "Construction",
+		"obsoleteTech": "Machinery",
+                "promotions": ["Quick Study"]
+                "uniques": ["[+1] Range"],
+		"upgradesTo": "Crossbowman",
+		"attackSound": "arrow"
+	},
+{
+		"name": "Galea",
+		"uniqueTo": "Minoa",
+		"replaces": "Trireme"
+		"unitType": "Melee Water",
+		"movement": 5,
+		"strength": 7,
+		"cost": 25,
+		"requiredTech": "Pottery",
+  "promotions": ["Supply"]
+  "uniques": ["[+1] Sight <in [Coast] tiles>", "May withdraw before melee ([40]%)"],
+		"upgradesTo": "Caravel",
+		"attackSound": "nonmetalhit"
+	},
 ]
