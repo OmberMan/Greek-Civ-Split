@@ -68,6 +68,23 @@
         ]
 	},
 	{
+		"name": "Cyclopean Fortress",
+		"uniqueTo": "Mycenae",
+		"replaces": "Walls",
+	"cityStrength": 7,
+"culture": 1,
+"happiness": -1,
+		"cityHealth": 150,
+		"hurryCostModifier": 50,
+  "cost": 125,
+		"requiredTech": "Masonry",
+		"uniques":
+				["[+1 Faith] <starting from the [Classical era]>", 
+"[-1 Faith, +1 Gold] <starting from the [Industrial era]>", 
+					"[+1 Production] after adopting [Honor]>",
+					"[+1 Production] after adopting [Monarchy]>"]
+},
+	{
 		"name": "Basilikoi Paides",
 		"uniqueTo": "Macedonia",
                 "replaces": "Barracks",
