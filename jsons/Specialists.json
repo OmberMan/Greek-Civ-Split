@@ -3,7 +3,20 @@
 		"name": "Philosopher",
 		"science": 1,
 		"culture": 2,
-		"greatPersonPoints": {"Great Scientist":4},
+		"greatPersonPoints": {"Great Scientist":3, "Great Artist":2},
 		"color": [215,235,250]
 	},
+	{
+		"name": "Mathmatician",
+		"science": 3,
+		"greatPersonPoints": {"Great Scientist":3, "Great Engineer":2},
+		"color": [60,30,230]
+	},
+	{
+		"name": "Polymath",
+		"science": 1,
+		"Production": 2,
+		"greatPersonPoints": {"Great Scientist":2, "Great Engineer":3},
+		"color": [139,19,69]
+	}
 ]
