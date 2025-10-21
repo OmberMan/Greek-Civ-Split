@@ -171,4 +171,19 @@
                  ]
 		"attackSound": "metalhit"
 	},
+	{
+		"name": "Enchophoros",
+		"replaces": "Spearman",
+		"uniqueTo": "Mycenae",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 11,
+		"cost": 56,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Pikeman",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+20]% Strength <when defending> <vs [Ranged] units>", "[+25]% XP gained from combat"],
+		"promotions": ["[Enchophoros] ability"],
+		"attackSound": "throw"
+	},
 ]
