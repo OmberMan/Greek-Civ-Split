@@ -206,4 +206,34 @@
 			{"text":"I'm not watching that new Odyssey movie unless Brad Pitt is dressed like an armored phallus"},
 			]
 	},
+		{
+		"name": "Minoa",
+		"leaderName": "Minos",
+		"adjective": ["Minoan"],
+		"startBias": ["Coast"],
+		"personality": "Minos",
+               	"preferredVictoryType": "Cultural",
+                "style": "Mediterranean", 
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "Prostrate yourself before me.",
+		"attacked": "Hah, what, were you thinking of swimming over here? \n\n...\n\n I'm not actually in Krete right now, am I?",
+		"defeated": "Man fuck you.",
+		"introduction": "I am King Minos of Minoa, try not to track dirt over my palace.",
+
+		"neutralHello": "Hello, got your gift basket?.",
+		"hateHello": "My son's getting real peckish right now.",
+
+		"tradeRequest": "Hear me out.",
+
+		"outerColor": [32,134,235],
+		"innerColor": [224,44,24],
+		"uniqueName": "First European Civilization",
+		"uniques": ["[+1 Faith] from [Cattle] tiles [in all cities]","[+1 Happiness] from all [Culture] buildings", "[+1 Culture] from all [Happiness] buildings <during a Golden Age>", "[+15]% [Science] [in all coastal cities] <during a Golden Age>", "[+15]% [Gold] [in all coastal cities] <when not at war>", "[-20]% Production when constructing [{Land} {Military}] units [in all cities]"]
+		"cities": ["Knossos", "Gortyn", "Phaistos","Malia", "Gortyna", "Zakros","Akotiri","Gournia","Myrtos","Agia Triadha","Ida","Khania",
+		"Sklavokambos","Tylissos","Amnisos","Nirou Khani","Vathypero","Arcanes","Agia Pelagia","Vasiliki","Kamaizi","Armenoi",
+		"Maleme","Platyvola","Kalami","Stylos","Myxorrouma","Saklouria","Apodhoulou"]
+		}
 ]
