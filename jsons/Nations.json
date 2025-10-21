@@ -136,7 +136,7 @@
   "style": "Mediterranean",
   "leaderName": " Cypselus",
 		"declaringWar": "We warned you. We made this colony and we can unmake it too.",
-		"attacked": "Sh-Shit - SPARTAAAA! \nHEEELP!",
+		"attacked": "Oh shit oh fuckj \n- SPARTAAAA! \nHEEELP!",
 		"defeated": "Oh, our beautiful polis, ohh, woe is Corinth. You'll at least finish my canal project, won't you?",
 		"outerColor": [0, 0, 0],
   "innerColor": [250, 235, 240],
@@ -175,4 +175,35 @@
 			"Patras","Lamia","Nafplion","Apolyton", "Troizen"],
         "spyNames": ["Jeson", "Hiline", "Aloix", "Platon", "Kassandros", "Andros", "Desdemona", "Antheas", "Aeneas", "Loindiraos", "Dada da du du da do do mo ne bam ba bah"]
     },*/
+		{
+		"name": "Mycenae",
+		"leaderName": "Agamemnon",
+		"adjective": ["Mycenaen"],
+"personality": "Mycenae",
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Domination",
+                "style": "Mediterranean",
+		
+		"declaringWar": "What's yours is mine, and what's mine will become more.",
+		"attacked": "Ugh, we'll see whay my wife has to say about this.",
+		"defeated": "A day will come when sacred Troy shall perish, and Priam and his people shall be slain. Is this too, the fate of Mycenae?",
+		"introduction": "Well met your grace. I am Agamemnon, and I am argoning.",
+		
+		"neutralHello": "What's this about?",
+		"hateHello": "Where the FUCK is my wife?",
+		"tradeRequest": "Out of curiosity, would you want a huge wooden horse? \nNo? \nWhy not?",
+		
+		"outerColor": [185,165,35],
+		"innerColor": [180,20,20],
+		"uniqueName": "Cyclopean Construction",
+		"uniqueText": "Defensive buildings give 12% [Production] towards Melee units, and are built 50% faster on cities on [Hill]. Sword and Melee gun units are 20% stronger on foreign continents. Gain Great Artists 25% faster during wars.",
+ "uniques": ["[+50]% Production when constructing [Walls] buildings [in all cities] <in [Hill] tiles>", "[+12]% Production when constructing [Melee] units [in all cities] <in cities with a [Walls]>", "[+50]% Production when constructing [Castle] buildings [in all cities] <in [Hill] tiles>", "[+12]% Production when constructing [Melee] units [in all cities] <in cities with a [Castle]>", "[+50]% Production when constructing [Arsenal] buildings [in all cities] <in [Hill] tiles>", "[+12]% Production when constructing [Melee] units [in all cities] <in cities with a [Arsenal]>", "[+50]% Production when constructing [Military Base] buildings [in all cities] <in [Hill] tiles>", "[+12]% Production when constructing [Melee] units [in all cities] <in cities with a [Military Base]>", "[+12]% Production when constructing [Melee] units [in all cities] <in cities with a [Bomb Shelter]>", "[+50]% Production when constructing [Military Base] buildings [in all cities] <in [Hill] tiles>", "[+12]% Production when constructing [Melee] units [in all cities] <in cities with a [Bomb Shelter]>", "[+20]% Strength for [Sword] units <on foreign continents>", "[+20]% Strength for [Gunpowder] units <on foreign continents>", "[Great Artist] is earned [25]% faster <when at war>", "Receive triple Gold from Barbarian encampments and pillaging Cities"
+],
+               
+		"cities": ["Mycenae","Tiryns","Pylos","Orcheme os","Iolcus","Gla", "Mytope", "Troad", "Thyresia","Pydnauros","Cyronia","Idioch","Resia",
+			"Patraros","Olynthio","Andrai","Tathon","Nymphidon"],
+		"civilopediaText": [
+			{"text":"I'm not watching that new Odyssey movie unless Brad Pitt is dressed like an armored phallus"},
+			]
+	},
 ]
