@@ -1,7 +1,7 @@
 [
 	{
 		"name": "[Enchophoros] ability",
-		"uniques": ["[1] Movement point cost to disembark", "Eliminates combat penalty for attacking across a coast", "Upon capturing a city, receive [2] times its [Gold] production as [Gold] immediately"],
+		"uniques": ["[1] Movement point cost to disembark", "Eliminates combat penalty for attacking across a coast", "Upon capturing a city, receive [3] times its [Gold] production as [Gold] immediately"],
 },
 {
 		"name": "Marine Training",
