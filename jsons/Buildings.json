@@ -96,6 +96,17 @@
 		"uniques": ["New [Military] units start with [15] Experience [in this city]", "New [Mounted] units start with [10] Experience [in this city]", "Gain [2]-[3] [Science] <upon gaining a [Mounted] unit>", "Gain [2]-[3] [Science] <upon gaining a [Armored] unit>"],
 		"requiredTech": "Bronze Working"
 	},
+		{
+		"name": "Sewers",
+		"uniqueTo": "Minoa",
+		"replaces": "Aqueduct",
+		"maintenance": 2,
+		"cost": 125,
+  "happiness": 2,
+		"hurryCostModifier": 20,
+		"uniques": ["[60]% Food is carried over after population increases [in this city]"],
+		"requiredTech": "Construction"
+	},
 /*
 {
 		"name": "Claw of Archimedes",
