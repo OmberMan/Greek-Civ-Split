@@ -157,10 +157,10 @@
 		"declaringWar": "It's time you exited the picture.",
 		"attacked": "Ha! You idiot.",
 		"defeated": "The sword of Damocles finally falls... To be honest, I never thought I'd see the day. \nMay your reign be short, and your death slow.",
-		"introduction": "I greet you on behalf of Athens as her elected representive; behold, the bastion of enlightenment and mother city of the Ionian Greeks.",
+		"introduction": "Congragulations, you're in Syracuse.",
 
-		"neutralHello": "Yes..?",
-		"hateHello": "Come to give up your throne, tyrant?",
+		"neutralHello": "Do you also appreciate the higher pleasures in life?",
+		"hateHello": "Fuck, its you.",
 
 		"tradeRequest": "Trust us, this agreement will benefit all of us the most, I'm sure I don't have to bore you with the specifics.",
 
@@ -170,8 +170,8 @@
 		"uniqueName": "Magna Graecia",
   "personality": "Syracussy", 
 		"uniques": ["Cannot annex cities", "[+1 Culture] from every [Scientist]", "[+2 Science] from every [Engineer]", "Gain a free [Architectural Marvel] [in a random city] <upon gaining a [Great Engineer] unit>"],
-	        "cities": ["Syracuse",  "Tauromenion","Akrai",
-			"Tyndaris", "Aitna","Ankon", "Kephaloidion", "Chios", "Delos", "Thasos", "Abydos", "Olynthos", "Serfios", "Smyrna", "Imbros",
+	        "cities": ["Syracuse",  "Sybaris","Tarentum",
+			"Croton", "Neapolis","Archaotzeirsli", "Posidonia", "Chios", "Delos", "Thasos", "Abydos", "Olynthos", "Serfios", "Smyrna", "Imbros",
 			"Patras","Lamia","Nafplion","Apolyton", "Troizen"],
         "spyNames": ["Jeson", "Hiline", "Aloix", "Platon", "Kassandros", "Andros", "Desdemona", "Antheas", "Aeneas", "Loindiraos", "Dada da du du da do do mo ne bam ba bah"]
     },*/
