@@ -225,7 +225,7 @@
 		"strength": 7,
 		"rangedStrength": 19,
                 "range": 2,
-		"cost": 80,
+		"cost": 75,
 		"hurryCostModifier": 20,
 		"requiredTech": "Construction",
 		"obsoleteTech": "Machinery",
