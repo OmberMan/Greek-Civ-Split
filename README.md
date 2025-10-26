@@ -4,5 +4,4 @@ Acropolis and Hoplite are placeholders, at least in their current form.
 
 Planned: Macedonian Peltast DONE! > Sparta DONE! > Thebes > Hoplite replacement > Corinth (Probably) > Argos (Maybe?) > Minoans/Pergamon/Syracuse/etc (Maybe?)
 
-<3 <3
 
