@@ -154,4 +154,29 @@
     "Tradition": 10
 }
         },
+        {
+                "name": "Syracussy",
+                "preferredVictoryType": "Science",
+                "food": 4,
+                "production": 8,
+                "gold": 8,
+                "culture": 9,
+                "science": 9,
+                "faith": 3,
+                "military": 6,
+                //"warMongering": 9
+"aggressive": 3,
+      "declareWar": 5,
+      "commerce": 7,
+      "diplomacy": 6,
+      "loyal": 3,
+      "expansion": 4,
+"priorities": {
+    "Patronage": 10,
+    "Aesthetics": 20,
+    "Autocracy": 20,
+    "Commerce": 20,
+    "Rationalism": 20
+        }
+}
 ]
