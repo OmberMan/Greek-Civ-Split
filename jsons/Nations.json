@@ -25,7 +25,7 @@
 		"innerColor": [235, 215, 60],
 		"favoredReligion": "Christianity",
 		"uniqueName": "We need to take India right fucking now",
-		"uniques": ["[+2] Movement <in [Enemy Land] tiles> <for [Land] units>", "[+1 Culture] per [2] population [in annexed cities]", "[+2 Culture] per [2] population [in annexed cities] <during a Golden Age>"],
+		"uniques": ["[+2] Movement <in [Enemy Land] tiles> <for [Land] units>", "[+1 Culture] per [2] population [in annexed cities]", "[+1 Culture] per [2] population [in annexed cities] <during a Golden Age>"],
 		 "uniqueText": "+2 Movement for all land units in enemy territory. \n+1 [Culture] for every 2 population in annexed cities, doubled during Golden Ages.",
 	        "cities": ["Pella", "Pydna", "Aegae", "Alexandria", "Therma", "Pergamon", "Ambracia", "Alexandria II", "Alexandria III", "Methoni", "Larissa", 
 			"Alexandria IV", "Herakleia","Alexandria V","Alexandria VI", "Pherae",
@@ -51,7 +51,7 @@
 		"neutralHello": "Yes..?",
 		"hateHello": "Come to give up your throne, tyrant?",
 
-		"tradeRequest": "Trust us, this agreement will benefit all of us the most, I'm sure I don't have to bore you with the specifics.",
+		"tradeRequest": "This agreement will be to your benefit;.I trust I don't have to bore you with the specifics.",
 
 		"outerColor": [250, 250, 254],
 		"innerColor": [40, 183, 245],
@@ -77,13 +77,13 @@
 		"startIntroPart1": "",
 		"startIntroPart2": "",
 
-		"declaringWar": "Laconia's fields require fresh helots, and her markets healthy slaves! \nThe weak should fear the strong; now natural order will be enforced.",
-		"attacked": "Sparta shall never submit to foreign cravens! Apollo smiles upon us, barbarian. You will not be walking away from this one.",
-		"defeated": "No... our society was infallible, indestructable... at least we will die with it like true Spartans.",
+		"declaringWar": "Laconia's fields require fresh helots, and her markets healthy slaves! \nThe weak should fear the strong!",
+		"attacked": "Sparta shall never submit to you, craven!",
+		"defeated": "No... our society was infallible, indestructible...",
 		"introduction": "You know where this is.",
 
 		"neutralHello": "What, barbarian? Speak.",
-		"hateHello": "I would have settled our differences on the fields of battle, were we not currently preoccupied declaring war on our peasant class. \nWhat you may call madness, we call Sparda.",
+		"hateHello": "I would have settled our differences on the fields of battle, were we not preoccupied declaring war on our own peasant class.",
 
 		"tradeRequest": "This is our offer. \nWe shall await your reply by the edge of a comically large hole.",
 
@@ -114,9 +114,9 @@
 		"introduction": "Greetings. I have been appointed to speak for Thebes, Boeotia, and all its people. May our relationship be a prosperous one.",
 
 		"neutralHello": "Something you wish to tell me?",
-		"hateHello": "You shouldn't let old slights distract you from our mutual intrests. \nNothing washes away bad blood like Boeotian wine.",
+		"hateHello": "Nothing washes away bad blood like Boeotian wine.",
 
-		"tradeRequest": "I think this arrangement is in both our interests, eh?",
+		"tradeRequest": "I think this arrangement is in both our interests, don't you?",
 
 		"outerColor": [182, 151, 37],
 		"innerColor": [52, 17, 114],
@@ -186,7 +186,7 @@
 		"declaringWar": "What's yours is mine, and what's mine will be more.",
 		"attacked": "Ugh, we'll see whay my wife has to say about this.",
 		"defeated": "A day will come when sacred Troy shall perish, and Priam and his people shall be slain. Is this too, the fate of Mycenae?",
-		"introduction": "Well met your grace. I am Agamemnon, and I am argoning right now.",
+		"introduction": "Well met your grace. I am Agamemnon, and I am argooning right now.",
 		
 		"neutralHello": "What's this about?",
 		"hateHello": "Where the FUCK is my wife?",
