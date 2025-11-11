@@ -144,7 +144,7 @@
 		"maintenance": 2,
 		"hurryCostModifier": 15,
 		"percentStatBonus": {"science": 33},
-		"specialistSlots": {"Scientist": 2},
+		"specialistSlots": {"Mathematician": 2},
 		"requiredBuilding": "Library",
 		"uniques": ["[+2 Science] from [Jungle] tiles [in this city]"],
 		"requiredTech": "Education"
@@ -152,7 +152,7 @@
 		{
 		"name": "Syracusian Public School",
 		"science": 3,
-		"specialistSlots": {"Scientist": 1},
+		"specialistSlots": {"Mathematician": 1},
 		"requiredBuilding": "University",
 		"maintenance": 3,
 		"hurryCostModifier": 0,
@@ -188,7 +188,7 @@
   "cityStrength": 10,
  	"greatPersonPoints": {"Great Engineer": 1},
 		"isNationalWonder": true,
-		"uniques": ["[+5]% Great Person generation [in this city]", "[+3]% Production when constructing [All] wonders [in this city]", "Population loss from nuclear attacks [-10]% [in this city]", "Destroyed when the city is captured", "Gain a free [Wonder of Engineering] [in this city] <upon expending a [Great Engineer] unit>","Unbuildable", "Cannot be purchased", " Will no be displayed in Civilopedia"],
+		"uniques": ["[+5]% Great Person generation [in this city]", "[+3]% Production when constructing [All] wonders [in this city]", "Population loss from nuclear attacks [-10]% [in this city]", "Destroyed when the city is captured", "Gain a free [Wonder of Engineering] [in this city] <upon expending a [Great Engineer] unit>","Unbuildable", "Cannot be purchased", "Will not be displayed in Civilopedia"],
 	},
 {
 		"name": "Wonder of Engineering",
@@ -199,7 +199,7 @@
   "cityStrength": 10,
  	"greatPersonPoints": {"Great Engineer": 1},
 		"isNationalWonder": true,
-		"uniques": ["[+5]% Great Person generation [in this city]", "[+3]% Production when constructing [All] wonders [in this city]", "Population loss from nuclear attacks [-10]% [in this city]", "Destroyed when the city is captured", "Gain a free [Marvelous Machination] [in this city] <upon expending a [Great Engineer] unit>","Unbuildable", "Cannot be purchased", " Will no be displayed in Civilopedia"],
+		"uniques": ["[+5]% Great Person generation [in this city]", "[+3]% Production when constructing [All] wonders [in this city]", "Population loss from nuclear attacks [-10]% [in this city]", "Destroyed when the city is captured", "Gain a free [Marvelous Machination] [in this city] <upon expending a [Great Engineer] unit>","Unbuildable", "Cannot be purchased", "Will not be displayed in Civilopedia"],
 	},
 {
 		"name": "Marvelous Machination",
@@ -210,7 +210,7 @@
   "cityStrength": 10,
  	"specialistSlots": {"Polymath": 1},
 		"isNationalWonder": true,
-		"uniques": ["[+5]% Great Person generation [in this city]", "[+3]% Production when constructing [All] wonders [in this city]", "Population loss from nuclear attacks [-10]% [in this city]", "Destroyed when the city is captured", "Gain a free [Dubious Structure] [in this city] <upon expending a [Great Engineer] unit>","Unbuildable", "Cannot be purchased", " Will no be displayed in Civilopedia"],
+		"uniques": ["[+5]% Great Person generation [in this city]", "[+3]% Production when constructing [All] wonders [in this city]", "Population loss from nuclear attacks [-10]% [in this city]", "Destroyed when the city is captured", "Gain a free [Dubious Structure] [in this city] <upon expending a [Great Engineer] unit>","Unbuildable", "Cannot be purchased", "Will not be displayed in Civilopedia"],
 	},
 {
 		"name": "Dubious Structure",
@@ -221,7 +221,7 @@
   "cityStrength": 10,
  	"greatPersonPoints": {"Great Engineer": 1},
 		"isNationalWonder": true,
-		"uniques": ["[+5]% Great Person generation [in this city]", "[+3]% Production when constructing [All] wonders [in this city]", "Population loss from nuclear attacks [-10]% [in this city]", "Destroyed when the city is captured", "Gain a free [Ingenious Invention] [in this city] <upon expending a [Great Engineer] unit>","Unbuildable", "Cannot be purchased", " Will no be displayed in Civilopedia"],
+		"uniques": ["[+5]% Great Person generation [in this city]", "[+3]% Production when constructing [All] wonders [in this city]", "Population loss from nuclear attacks [-10]% [in this city]", "Destroyed when the city is captured", "Gain a free [Ingenious Invention] [in this city] <upon expending a [Great Engineer] unit>","Unbuildable", "Cannot be purchased", "Will not be displayed in Civilopedia"],
 	},
 {
 		"name": "Ingenious Invention",
@@ -232,7 +232,7 @@
   "cityStrength": 10,
  	"greatPersonPoints": {"Great Engineer": 1},
 		"isNationalWonder": true,
-		"uniques": ["[+5]% Great Person generation [in this city]", "[+3]% Production when constructing [All] wonders [in this city]", "Population loss from nuclear attacks [-10]% [in this city]", "Destroyed when the city is captured", "Gain a free [Amazing Gadget] [in this city] <upon expending a [Great Engineer] unit>","Unbuildable", "Cannot be purchased", " Will no be displayed in Civilopedia"],
+		"uniques": ["[+5]% Great Person generation [in this city]", "[+3]% Production when constructing [All] wonders [in this city]", "Population loss from nuclear attacks [-10]% [in this city]", "Destroyed when the city is captured", "Gain a free [Amazing Gadget] [in this city] <upon expending a [Great Engineer] unit>","Unbuildable", "Cannot be purchased", "Will not be displayed in Civilopedia"],
 	},
 {
 		"name": "Amazing Gadget",
@@ -243,7 +243,7 @@
   "cityStrength": 10,
  	"greatPersonPoints": {"Great Engineer": 1},
 		"isNationalWonder": true,
-		"uniques": ["[+5]% Great Person generation [in this city]", "[+3]% Production when constructing [All] wonders [in this city]", "Population loss from nuclear attacks [-10]% [in this city]", "Destroyed when the city is captured", "Gain a free [Evil and Intimidating Gizmo] [in this city] <upon expending a [Great Engineer] unit>","Unbuildable", "Cannot be purchased", " Will no be displayed in Civilopedia"],
+		"uniques": ["[+5]% Great Person generation [in this city]", "[+3]% Production when constructing [All] wonders [in this city]", "Population loss from nuclear attacks [-10]% [in this city]", "Destroyed when the city is captured", "Gain a free [Evil and Intimidating Gizmo] [in this city] <upon expending a [Great Engineer] unit>","Unbuildable", "Cannot be purchased", "Will not be displayed in Civilopedia"],
 	},
 {
 		"name": "Evil and Intimidating Gizmo",
@@ -254,7 +254,7 @@
   "cityStrength": 10,
  	"specialistSlots": {"Polymath": 1},
 		"isNationalWonder": true,
-		"uniques": ["[+5]% Great Person generation [in this city]", "[+3]% Production when constructing [All] wonders [in this city]", "Population loss from nuclear attacks [-10]% [in this city]", "Destroyed when the city is captured", "Gain a free [Technological Achievement] [in this city] <upon expending a [Great Engineer] unit>","Unbuildable", "Cannot be purchased", " Will no be displayed in Civilopedia"],
+		"uniques": ["[+5]% Great Person generation [in this city]", "[+3]% Production when constructing [All] wonders [in this city]", "Population loss from nuclear attacks [-10]% [in this city]", "Destroyed when the city is captured", "Gain a free [Technological Achievement] [in this city] <upon expending a [Great Engineer] unit>","Unbuildable", "Cannot be purchased", "Will not be displayed in Civilopedia"],
 	},
 {
 		"name": "Technological Achievement",
@@ -265,7 +265,7 @@
   "cityStrength": 10,
  	"greatPersonPoints": {"Great Engineer": 1},
 		"isNationalWonder": true,
-		"uniques": ["[+5]% Great Person generation [in this city]", "[+3]% Production when constructing [All] wonders [in this city]", "Population loss from nuclear attacks [-10]% [in this city]", "Destroyed when the city is captured", "Gain a free [The House House] [in this city] <upon expending a [Great Engineer] unit>","Unbuildable", "Cannot be purchased", " Will no be displayed in Civilopedia"],
+		"uniques": ["[+5]% Great Person generation [in this city]", "[+3]% Production when constructing [All] wonders [in this city]", "Population loss from nuclear attacks [-10]% [in this city]", "Destroyed when the city is captured", "Gain a free [The House House] [in this city] <upon expending a [Great Engineer] unit>","Unbuildable", "Cannot be purchased", "Will not be displayed in Civilopedia"],
 	},
 {
 		"name": "The House House",
@@ -276,7 +276,7 @@
   "cityStrength": 10,
  	"greatPersonPoints": {"Great Engineer": 1},
 		"isNationalWonder": true,
-		"uniques": ["[+5]% Great Person generation [in this city]", "[+3]% Production when constructing [All] wonders [in this city]", "Population loss from nuclear attacks [-10]% [in this city]", "Destroyed when the city is captured", "Gain a free [Mathematical Improbability] [in this city] <upon expending a [Great Engineer] unit>","Unbuildable", "Cannot be purchased", " Will no be displayed in Civilopedia"],
+		"uniques": ["[+5]% Great Person generation [in this city]", "[+3]% Production when constructing [All] wonders [in this city]", "Population loss from nuclear attacks [-10]% [in this city]", "Destroyed when the city is captured", "Gain a free [Mathematical Improbability] [in this city] <upon expending a [Great Engineer] unit>","Unbuildable", "Cannot be purchased", "Will not be displayed in Civilopedia"],
 	},
 {
 		"name": "Mathematical Improbability",
@@ -287,7 +287,7 @@
   "cityStrength": 10,
  	"greatPersonPoints": {"Great Engineer": 1},
 		"isNationalWonder": true,
-		"uniques": ["[+5]% Great Person generation [in this city]", "[+3]% Production when constructing [All] wonders [in this city]", "Population loss from nuclear attacks [-10]% [in this city]", "Destroyed when the city is captured", "Gain a free [Really Awesome Thing] [in this city] <upon expending a [Great Engineer] unit>","Unbuildable", "Cannot be purchased", " Will no be displayed in Civilopedia"],
+		"uniques": ["[+5]% Great Person generation [in this city]", "[+3]% Production when constructing [All] wonders [in this city]", "Population loss from nuclear attacks [-10]% [in this city]", "Destroyed when the city is captured", "Gain a free [Really Awesome Thing] [in this city] <upon expending a [Great Engineer] unit>","Unbuildable", "Cannot be purchased", "Will not be displayed in Civilopedia"],
 	},
 {
 		"name": "Really Awesome Thing",
@@ -296,9 +296,9 @@
 		"culture": 1,
   "cityHealth": 35,
   "cityStrength": 10,
- 	"greatPersonPoints": {"Great Engineer": 1},
+ 	"specialistSlots": {"Polymath": 1},
 		"isNationalWonder": true,
-		"uniques": ["[+5]% Great Person generation [in this city]", "[+3]% Production when constructing [All] wonders [in this city]", "Population loss from nuclear attacks [-10]% [in this city]", "Destroyed when the city is captured", "Gain a free [The House House] [in this city] <upon expending a [Great Engineer] unit>","Unbuildable", "Cannot be purchased", " Will no be displayed in Civilopedia"],
+		"uniques": ["[+5]% Great Person generation [in this city]", "[+3]% Production when constructing [All] wonders [in this city]", "Population loss from nuclear attacks [-10]% [in this city]", "Destroyed when the city is captured", "Gain [+100] [Science] <upon expending a [Great Engineer] unit>","Unbuildable", "Cannot be purchased", "Will not be displayed in Civilopedia"],
 	},
 			{
 		"name": "Claw of Archimedes",
