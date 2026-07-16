@@ -12,7 +12,7 @@
 "percentStatBonus": {"Culture": 5},
 		"maintenance": 2,
 		"hurryCostModifier": 25,
-		"uniques": ["Destroyed when the city is captured", ],
+		"uniques": ["Destroyed when the city is captured" ],
 		"requiredTech": "Drama and Poetry"
 	},
 	{
