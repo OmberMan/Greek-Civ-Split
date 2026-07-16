@@ -1,5 +1,20 @@
 [
 //Temnite Theatron
+
+	{
+		"name": "Theatron",
+		"culture": 1,
+  "happiness": 1,
+"replaces": "Amphitheater",
+		"uniqueTo": "Syracuse",
+		"specialistSlots": {"Artist": 1},
+		"requiredBuilding": "Monument",
+"percentStatBonus": {"Culture": 5},
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"uniques": ["Destroyed when the city is captured", ],
+		"requiredTech": "Drama and Poetry"
+	},
 	{
 		"name": "Cadmea",
 		"replaces": "National Epic",
