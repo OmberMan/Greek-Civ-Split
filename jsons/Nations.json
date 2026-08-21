@@ -51,7 +51,7 @@
 		"neutralHello": "Yes..?",
 		"hateHello": "Come to give up your throne, tyrant?",
 
-		"tradeRequest": "This agreement will be to your benefit;.I trust I don't have to bore you with the specifics.",
+		"tradeRequest": "This agreement will be to your benefit.",
 
 		"outerColor": [250, 250, 254],
 		"innerColor": [40, 183, 245],
@@ -114,7 +114,7 @@
 		"introduction": "Greetings. I have been appointed to speak for Thebes, Boeotia, and all its people. May our relationship be a prosperous one.",
 
 		"neutralHello": "Something you wish to tell me?",
-		"hateHello": "Nothing washes away bad blood like Boeotian wine.",
+		"hateHello": "Nothing washes down bad blood like Boeotian wine.",
 
 		"tradeRequest": "I think this arrangement is in both our interests, don't you?",
 
@@ -156,11 +156,11 @@
 
 		"declaringWar": "It's time you exited the picture.",
 		"attacked": "Ha! You idiot.",
-		"defeated": "Damnit, why on earth did I leave that sword up there...",
+		"defeated": "Damnit, why the hell did I leave that sword up there...",
 		"introduction": "Congragulations, you're in Syracuse.",
 
 		"neutralHello": "Do you also appreciate the higher pleasures in life?",
-		"hateHello": "Back to whine my ear off?",
+		"hateHello": "Come to whine my ear off?",
 
 		"tradeRequest": "This is what I'm willing to offer.",
 
@@ -172,7 +172,7 @@
 		"uniques": ["Cannot build [Settler] units", "Gain a free [Architectural Marvel] [in capital] <upon gaining a [Great Engineer] unit>", "[+33]% Production when constructing [Siege] units [in all cities]", "[-33]% Gold cost of upgrading <for [Siege] units>"],
 	        "cities": ["Syracuse", "Sybaris","Tarentum",
 			"Croton", "Neapolis","Archaotzeirsli", "Posidonia", "Austin"],
-        "spyNames": ["Damoclese Nuts", "Helen"]
+        "spyNames": ["Damoclese Nuts", "Helen", "Bonpinsero"]
     },*/
 		{
 		"name": "Mycenae",
@@ -199,9 +199,6 @@
  "uniques": ["[+50]% Production when constructing [Walls] buildings [in all cities] <in [Hill] tiles>", "[+12]% Production when constructing [Melee] units [in all cities] <in cities with a [Walls]>", "[+50]% Production when constructing [Castle] buildings [in all cities] <in [Hill] tiles>", "[+12]% Production when constructing [Melee] units [in all cities] <in cities with a [Castle]>", "[+50]% Production when constructing [Arsenal] buildings [in all cities] <in [Hill] tiles>", "[+12]% Production when constructing [Melee] units [in all cities] <in cities with a [Arsenal]>", "[+50]% Production when constructing [Military Base] buildings [in all cities] <in [Hill] tiles>", "[+12]% Production when constructing [Melee] units [in all cities] <in cities with a [Military Base]>", "[+12]% Production when constructing [Melee] units [in all cities] <in cities with a [Bomb Shelter]>", "[+50]% Production when constructing [Military Base] buildings [in all cities] <in [Hill] tiles>", "[+12]% Production when constructing [Melee] units [in all cities] <in cities with a [Bomb Shelter]>", "[+20]% Strength for [Sword] units <on foreign continents>", "[+20]% Strength for [Gunpowder] units <on foreign continents>", "[Great Artist] is earned [25]% faster <when at war>", "Receive triple Gold from Barbarian encampments and pillaging Cities"],
                
 		"cities": ["Mycenae","Tiryns","Pylos","Orchemeos","Iolcus","Gla", "Mytope", "Troad", "Thyresia","Pydnauros","Cyronia","Idioch"],
-		"civilopediaText": [
-			{"text":"I'm not watching that new Odyssey movie unless Brad Pitt is dressed like an armored phallus"},
-			]
 	},
 		{
 		"name": "Minoa",
